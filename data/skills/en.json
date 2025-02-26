@@ -1,0 +1,737 @@
+[
+  {
+    "id": "366824395",
+    "name": "Attack Boost",
+    "link": "https://mhrise.kiranico.com/data/skills/366824395"
+  },
+  {
+    "id": "381074408",
+    "name": "Agitator",
+    "link": "https://mhrise.kiranico.com/data/skills/381074408"
+  },
+  {
+    "id": "395307913",
+    "name": "Peak Performance",
+    "link": "https://mhrise.kiranico.com/data/skills/395307913"
+  },
+  {
+    "id": "274815918",
+    "name": "Resentment",
+    "link": "https://mhrise.kiranico.com/data/skills/274815918"
+  },
+  {
+    "id": "289049423",
+    "name": "Resuscitate",
+    "link": "https://mhrise.kiranico.com/data/skills/289049423"
+  },
+  {
+    "id": "303299436",
+    "name": "Critical Eye",
+    "link": "https://mhrise.kiranico.com/data/skills/303299436"
+  },
+  {
+    "id": "485829389",
+    "name": "Critical Boost",
+    "link": "https://mhrise.kiranico.com/data/skills/485829389"
+  },
+  {
+    "id": "500079394",
+    "name": "Weakness Exploit",
+    "link": "https://mhrise.kiranico.com/data/skills/500079394"
+  },
+  {
+    "id": "514312899",
+    "name": "Latent Power",
+    "link": "https://mhrise.kiranico.com/data/skills/514312899"
+  },
+  {
+    "id": "528038624",
+    "name": "Maximum Might",
+    "link": "https://mhrise.kiranico.com/data/skills/528038624"
+  },
+  {
+    "id": "408054401",
+    "name": "Critical Element",
+    "link": "https://mhrise.kiranico.com/data/skills/408054401"
+  },
+  {
+    "id": "422304422",
+    "name": "Master's Touch",
+    "link": "https://mhrise.kiranico.com/data/skills/422304422"
+  },
+  {
+    "id": "437062215",
+    "name": "Fire Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/437062215"
+  },
+  {
+    "id": "82213476",
+    "name": "Water Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/82213476"
+  },
+  {
+    "id": "96446981",
+    "name": "Ice Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/96446981"
+  },
+  {
+    "id": "110172730",
+    "name": "Thunder Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/110172730"
+  },
+  {
+    "id": "124406235",
+    "name": "Dragon Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/124406235"
+  },
+  {
+    "id": "4438520",
+    "name": "Poison Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/4438520"
+  },
+  {
+    "id": "19196313",
+    "name": "Paralysis Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/19196313"
+  },
+  {
+    "id": "67000766",
+    "name": "Sleep Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/67000766"
+  },
+  {
+    "id": "215451999",
+    "name": "Blast Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/215451999"
+  },
+  {
+    "id": "229177724",
+    "name": "Handicraft",
+    "link": "https://mhrise.kiranico.com/data/skills/229177724"
+  },
+  {
+    "id": "243411229",
+    "name": "Razor Sharp",
+    "link": "https://mhrise.kiranico.com/data/skills/243411229"
+  },
+  {
+    "id": "257661234",
+    "name": "Spare Shot",
+    "link": "https://mhrise.kiranico.com/data/skills/257661234"
+  },
+  {
+    "id": "138201299",
+    "name": "Protective Polish",
+    "link": "https://mhrise.kiranico.com/data/skills/138201299"
+  },
+  {
+    "id": "152451312",
+    "name": "Mind's Eye",
+    "link": "https://mhrise.kiranico.com/data/skills/152451312"
+  },
+  {
+    "id": "200239249",
+    "name": "Ballistics",
+    "link": "https://mhrise.kiranico.com/data/skills/200239249"
+  },
+  {
+    "id": "885053622",
+    "name": "Bludgeoner",
+    "link": "https://mhrise.kiranico.com/data/skills/885053622"
+  },
+  {
+    "id": "899287127",
+    "name": "Bow Charge Plus",
+    "link": "https://mhrise.kiranico.com/data/skills/899287127"
+  },
+  {
+    "id": "913537140",
+    "name": "Focus",
+    "link": "https://mhrise.kiranico.com/data/skills/913537140"
+  },
+  {
+    "id": "928294933",
+    "name": "Power Prolonger",
+    "link": "https://mhrise.kiranico.com/data/skills/928294933"
+  },
+  {
+    "id": "808327178",
+    "name": "Marathon Runner",
+    "link": "https://mhrise.kiranico.com/data/skills/808327178"
+  },
+  {
+    "id": "822560811",
+    "name": "Constitution",
+    "link": "https://mhrise.kiranico.com/data/skills/822560811"
+  },
+  {
+    "id": "869842888",
+    "name": "Stamina Surge",
+    "link": "https://mhrise.kiranico.com/data/skills/869842888"
+  },
+  {
+    "id": "1018294249",
+    "name": "Guard",
+    "link": "https://mhrise.kiranico.com/data/skills/1018294249"
+  },
+  {
+    "id": "1032544142",
+    "name": "Guard Up",
+    "link": "https://mhrise.kiranico.com/data/skills/1032544142"
+  },
+  {
+    "id": "1047302063",
+    "name": "Offensive Guard",
+    "link": "https://mhrise.kiranico.com/data/skills/1047302063"
+  },
+  {
+    "id": "1061551948",
+    "name": "Critical Draw",
+    "link": "https://mhrise.kiranico.com/data/skills/1061551948"
+  },
+  {
+    "id": "941567853",
+    "name": "Punishing Draw",
+    "link": "https://mhrise.kiranico.com/data/skills/941567853"
+  },
+  {
+    "id": "988847874",
+    "name": "Quick Sheathe",
+    "link": "https://mhrise.kiranico.com/data/skills/988847874"
+  },
+  {
+    "id": "1003081507",
+    "name": "Slugger",
+    "link": "https://mhrise.kiranico.com/data/skills/1003081507"
+  },
+  {
+    "id": "614678208",
+    "name": "Stamina Thief",
+    "link": "https://mhrise.kiranico.com/data/skills/614678208"
+  },
+  {
+    "id": "629436129",
+    "name": "Affinity Sliding",
+    "link": "https://mhrise.kiranico.com/data/skills/629436129"
+  },
+  {
+    "id": "643686022",
+    "name": "Horn Maestro",
+    "link": "https://mhrise.kiranico.com/data/skills/643686022"
+  },
+  {
+    "id": "657919655",
+    "name": "Artillery",
+    "link": "https://mhrise.kiranico.com/data/skills/657919655"
+  },
+  {
+    "id": "537427524",
+    "name": "Load Shells",
+    "link": "https://mhrise.kiranico.com/data/skills/537427524"
+  },
+  {
+    "id": "585215589",
+    "name": "Special Ammo Boost",
+    "link": "https://mhrise.kiranico.com/data/skills/585215589"
+  },
+  {
+    "id": "599465498",
+    "name": "Normal/Rapid Up",
+    "link": "https://mhrise.kiranico.com/data/skills/599465498"
+  },
+  {
+    "id": "748441147",
+    "name": "Pierce Up",
+    "link": "https://mhrise.kiranico.com/data/skills/748441147"
+  },
+  {
+    "id": "762691032",
+    "name": "Spread Up",
+    "link": "https://mhrise.kiranico.com/data/skills/762691032"
+  },
+  {
+    "id": "776924665",
+    "name": "Ammo Up",
+    "link": "https://mhrise.kiranico.com/data/skills/776924665"
+  },
+  {
+    "id": "790650270",
+    "name": "Reload Speed",
+    "link": "https://mhrise.kiranico.com/data/skills/790650270"
+  },
+  {
+    "id": "704220607",
+    "name": "Recoil Down",
+    "link": "https://mhrise.kiranico.com/data/skills/704220607"
+  },
+  {
+    "id": "718470492",
+    "name": "Steadiness",
+    "link": "https://mhrise.kiranico.com/data/skills/718470492"
+  },
+  {
+    "id": "733228413",
+    "name": "Rapid Fire Up",
+    "link": "https://mhrise.kiranico.com/data/skills/733228413"
+  },
+  {
+    "id": "1418566930",
+    "name": "Defense Boost",
+    "link": "https://mhrise.kiranico.com/data/skills/1418566930"
+  },
+  {
+    "id": "1432800563",
+    "name": "Divine Blessing",
+    "link": "https://mhrise.kiranico.com/data/skills/1432800563"
+  },
+  {
+    "id": "1446526160",
+    "name": "Recovery Up",
+    "link": "https://mhrise.kiranico.com/data/skills/1446526160"
+  },
+  {
+    "id": "1460759793",
+    "name": "Recovery Speed",
+    "link": "https://mhrise.kiranico.com/data/skills/1460759793"
+  },
+  {
+    "id": "1374346390",
+    "name": "Speed Eating",
+    "link": "https://mhrise.kiranico.com/data/skills/1374346390"
+  },
+  {
+    "id": "1389104311",
+    "name": "Earplugs",
+    "link": "https://mhrise.kiranico.com/data/skills/1389104311"
+  },
+  {
+    "id": "1403354196",
+    "name": "Windproof",
+    "link": "https://mhrise.kiranico.com/data/skills/1403354196"
+  },
+  {
+    "id": "1551805557",
+    "name": "Tremor Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1551805557"
+  },
+  {
+    "id": "1565531242",
+    "name": "Bubbly Dance",
+    "link": "https://mhrise.kiranico.com/data/skills/1565531242"
+  },
+  {
+    "id": "1579764747",
+    "name": "Evade Window",
+    "link": "https://mhrise.kiranico.com/data/skills/1579764747"
+  },
+  {
+    "id": "1594014760",
+    "name": "Evade Extender",
+    "link": "https://mhrise.kiranico.com/data/skills/1594014760"
+  },
+  {
+    "id": "1507582921",
+    "name": "Fire Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1507582921"
+  },
+  {
+    "id": "1522357230",
+    "name": "Water Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1522357230"
+  },
+  {
+    "id": "1536590735",
+    "name": "Ice Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1536590735"
+  },
+  {
+    "id": "1148187564",
+    "name": "Thunder Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1148187564"
+  },
+  {
+    "id": "1161896781",
+    "name": "Dragon Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1161896781"
+  },
+  {
+    "id": "1176146786",
+    "name": "Blight Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1176146786"
+  },
+  {
+    "id": "1089716995",
+    "name": "Poison Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1089716995"
+  },
+  {
+    "id": "1104491296",
+    "name": "Paralysis Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1104491296"
+  },
+  {
+    "id": "1118724801",
+    "name": "Sleep Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1118724801"
+  },
+  {
+    "id": "1132974822",
+    "name": "Stun Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1132974822"
+  },
+  {
+    "id": "1280901767",
+    "name": "Muck Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1280901767"
+  },
+  {
+    "id": "1295151780",
+    "name": "Blast Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/1295151780"
+  },
+  {
+    "id": "1309385285",
+    "name": "Botanist",
+    "link": "https://mhrise.kiranico.com/data/skills/1309385285"
+  },
+  {
+    "id": "1223496314",
+    "name": "Geologist",
+    "link": "https://mhrise.kiranico.com/data/skills/1223496314"
+  },
+  {
+    "id": "1237729819",
+    "name": "Partbreaker",
+    "link": "https://mhrise.kiranico.com/data/skills/1237729819"
+  },
+  {
+    "id": "1251979832",
+    "name": "Capture Master",
+    "link": "https://mhrise.kiranico.com/data/skills/1251979832"
+  },
+  {
+    "id": "1265689049",
+    "name": "Carving Master",
+    "link": "https://mhrise.kiranico.com/data/skills/1265689049"
+  },
+  {
+    "id": "1951027710",
+    "name": "Good Luck",
+    "link": "https://mhrise.kiranico.com/data/skills/1951027710"
+  },
+  {
+    "id": "1965261215",
+    "name": "Speed Sharpening",
+    "link": "https://mhrise.kiranico.com/data/skills/1965261215"
+  },
+  {
+    "id": "1980035516",
+    "name": "Bombardier",
+    "link": "https://mhrise.kiranico.com/data/skills/1980035516"
+  },
+  {
+    "id": "1893605725",
+    "name": "Mushroomancer",
+    "link": "https://mhrise.kiranico.com/data/skills/1893605725"
+  },
+  {
+    "id": "1907855730",
+    "name": "Item Prolonger",
+    "link": "https://mhrise.kiranico.com/data/skills/1907855730"
+  },
+  {
+    "id": "1921564947",
+    "name": "Wide-Range",
+    "link": "https://mhrise.kiranico.com/data/skills/1921564947"
+  },
+  {
+    "id": "1935814960",
+    "name": "Free Meal",
+    "link": "https://mhrise.kiranico.com/data/skills/1935814960"
+  },
+  {
+    "id": "2084266193",
+    "name": "Heroics",
+    "link": "https://mhrise.kiranico.com/data/skills/2084266193"
+  },
+  {
+    "id": "2099040502",
+    "name": "Fortify",
+    "link": "https://mhrise.kiranico.com/data/skills/2099040502"
+  },
+  {
+    "id": "2146828439",
+    "name": "Flinch Free",
+    "link": "https://mhrise.kiranico.com/data/skills/2146828439"
+  },
+  {
+    "id": "2026860724",
+    "name": "Jump Master",
+    "link": "https://mhrise.kiranico.com/data/skills/2026860724"
+  },
+  {
+    "id": "2040569941",
+    "name": "Carving Pro",
+    "link": "https://mhrise.kiranico.com/data/skills/2040569941"
+  },
+  {
+    "id": "2054819914",
+    "name": "Hunger Resistance",
+    "link": "https://mhrise.kiranico.com/data/skills/2054819914"
+  },
+  {
+    "id": "2069053547",
+    "name": "Leap of Faith",
+    "link": "https://mhrise.kiranico.com/data/skills/2069053547"
+  },
+  {
+    "id": "1681174536",
+    "name": "Diversion",
+    "link": "https://mhrise.kiranico.com/data/skills/1681174536"
+  },
+  {
+    "id": "1695408169",
+    "name": "Master Mounter",
+    "link": "https://mhrise.kiranico.com/data/skills/1695408169"
+  },
+  {
+    "id": "1743214542",
+    "name": "Chameleos Blessing",
+    "link": "https://mhrise.kiranico.com/data/skills/1743214542"
+  },
+  {
+    "id": "1622706159",
+    "name": "Kushala Blessing",
+    "link": "https://mhrise.kiranico.com/data/skills/1622706159"
+  },
+  {
+    "id": "1636956044",
+    "name": "Teostra Blessing",
+    "link": "https://mhrise.kiranico.com/data/skills/1636956044"
+  },
+  {
+    "id": "1651189677",
+    "name": "Dragonheart",
+    "link": "https://mhrise.kiranico.com/data/skills/1651189677"
+  },
+  {
+    "id": "1665963842",
+    "name": "Wirebug Whisperer",
+    "link": "https://mhrise.kiranico.com/data/skills/1665963842"
+  },
+  {
+    "id": "1814415203",
+    "name": "Wall Runner",
+    "link": "https://mhrise.kiranico.com/data/skills/1814415203"
+  },
+  {
+    "id": "1862219520",
+    "name": "Counterstrike",
+    "link": "https://mhrise.kiranico.com/data/skills/1862219520"
+  },
+  {
+    "id": "1875928865",
+    "name": "Rapid Morph",
+    "link": "https://mhrise.kiranico.com/data/skills/1875928865"
+  },
+  {
+    "id": "1755961030",
+    "name": "Hellfire Cloak",
+    "link": "https://mhrise.kiranico.com/data/skills/1755961030"
+  },
+  {
+    "id": "1770194663",
+    "name": "Wind Alignment",
+    "link": "https://mhrise.kiranico.com/data/skills/1770194663"
+  },
+  {
+    "id": "1784968836",
+    "name": "Thunder Alignment",
+    "link": "https://mhrise.kiranico.com/data/skills/1784968836"
+  },
+  {
+    "id": "1799202469",
+    "name": "Stormsoul",
+    "link": "https://mhrise.kiranico.com/data/skills/1799202469"
+  },
+  {
+    "id": "337057370",
+    "name": "Blood Rite",
+    "link": "https://mhrise.kiranico.com/data/skills/337057370"
+  },
+  {
+    "id": "384321147",
+    "name": "Dereliction",
+    "link": "https://mhrise.kiranico.com/data/skills/384321147"
+  },
+  {
+    "id": "398571032",
+    "name": "Furious",
+    "link": "https://mhrise.kiranico.com/data/skills/398571032"
+  },
+  {
+    "id": "278586937",
+    "name": "Mail of Hellfire",
+    "link": "https://mhrise.kiranico.com/data/skills/278586937"
+  },
+  {
+    "id": "293361118",
+    "name": "Coalescence",
+    "link": "https://mhrise.kiranico.com/data/skills/293361118"
+  },
+  {
+    "id": "307594751",
+    "name": "Bloodlust",
+    "link": "https://mhrise.kiranico.com/data/skills/307594751"
+  },
+  {
+    "id": "321844636",
+    "name": "Defiance",
+    "link": "https://mhrise.kiranico.com/data/skills/321844636"
+  },
+  {
+    "id": "469771709",
+    "name": "Sneak Attack",
+    "link": "https://mhrise.kiranico.com/data/skills/469771709"
+  },
+  {
+    "id": "517576018",
+    "name": "Adrenaline Rush",
+    "link": "https://mhrise.kiranico.com/data/skills/517576018"
+  },
+  {
+    "id": "412366096",
+    "name": "Redirection",
+    "link": "https://mhrise.kiranico.com/data/skills/412366096"
+  },
+  {
+    "id": "426599729",
+    "name": "Spiribird's Call",
+    "link": "https://mhrise.kiranico.com/data/skills/426599729"
+  },
+  {
+    "id": "440849622",
+    "name": "Charge Master",
+    "link": "https://mhrise.kiranico.com/data/skills/440849622"
+  },
+  {
+    "id": "454558967",
+    "name": "Foray",
+    "link": "https://mhrise.kiranico.com/data/skills/454558967"
+  },
+  {
+    "id": "99710100",
+    "name": "Tune-Up",
+    "link": "https://mhrise.kiranico.com/data/skills/99710100"
+  },
+  {
+    "id": "113943733",
+    "name": "Grinder (S)",
+    "link": "https://mhrise.kiranico.com/data/skills/113943733"
+  },
+  {
+    "id": "128717994",
+    "name": "Bladescale Hone",
+    "link": "https://mhrise.kiranico.com/data/skills/128717994"
+  },
+  {
+    "id": "8733771",
+    "name": "Wall Runner (Boost)",
+    "link": "https://mhrise.kiranico.com/data/skills/8733771"
+  },
+  {
+    "id": "232963023",
+    "name": "Quick Breath",
+    "link": "https://mhrise.kiranico.com/data/skills/232963023"
+  },
+  {
+    "id": "22983784",
+    "name": "Element Exploit",
+    "link": "https://mhrise.kiranico.com/data/skills/22983784"
+  },
+  {
+    "id": "37217289",
+    "name": "Burst",
+    "link": "https://mhrise.kiranico.com/data/skills/37217289"
+  },
+  {
+    "id": "50943022",
+    "name": "Guts",
+    "link": "https://mhrise.kiranico.com/data/skills/50943022"
+  },
+  {
+    "id": "247196652",
+    "name": "Status Trigger",
+    "link": "https://mhrise.kiranico.com/data/skills/247196652"
+  },
+  {
+    "id": "261970829",
+    "name": "Intrepid Heart",
+    "link": "https://mhrise.kiranico.com/data/skills/261970829"
+  },
+  {
+    "id": "141986722",
+    "name": "Buildup Boost",
+    "link": "https://mhrise.kiranico.com/data/skills/141986722"
+  },
+  {
+    "id": "531809651",
+    "name": "Embolden",
+    "link": "https://mhrise.kiranico.com/data/skills/531809651"
+  },
+  {
+    "id": "169945952",
+    "name": "Wind Mantle",
+    "link": "https://mhrise.kiranico.com/data/skills/169945952"
+  },
+  {
+    "id": "888838913",
+    "name": "Powder Mantle",
+    "link": "https://mhrise.kiranico.com/data/skills/888838913"
+  },
+  {
+    "id": "156236611",
+    "name": "Berserk",
+    "link": "https://mhrise.kiranico.com/data/skills/156236611"
+  },
+  {
+    "id": "840071771",
+    "name": "Strife",
+    "link": "https://mhrise.kiranico.com/data/skills/840071771"
+  },
+  {
+    "id": "903072550",
+    "name": "Frostcraft",
+    "link": "https://mhrise.kiranico.com/data/skills/903072550"
+  },
+  {
+    "id": "917846727",
+    "name": "Dragon Conversion",
+    "link": "https://mhrise.kiranico.com/data/skills/917846727"
+  },
+  {
+    "id": "932080356",
+    "name": "Heaven-Sent",
+    "link": "https://mhrise.kiranico.com/data/skills/932080356"
+  },
+  {
+    "id": "812112517",
+    "name": "Frenzied Bloodlust",
+    "link": "https://mhrise.kiranico.com/data/skills/812112517"
+  },
+  {
+    "id": "825821882",
+    "name": "Blood Awakening",
+    "link": "https://mhrise.kiranico.com/data/skills/825821882"
+  },
+  {
+    "id": "1022077560",
+    "name": "Shock Absorber",
+    "link": "https://mhrise.kiranico.com/data/skills/1022077560"
+  },
+  {
+    "id": "1036851737",
+    "name": "Inspiration",
+    "link": "https://mhrise.kiranico.com/data/skills/1036851737"
+  }
+]

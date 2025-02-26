@@ -1,0 +1,470 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_05.png",
+    "id": "em132_05",
+    "name": "Primordial Malzeno",
+    "link": "https://mhrise.kiranico.com/data/monsters/1301934382"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em091_00.png",
+    "id": "em091_00",
+    "name": "Aknosom",
+    "link": "https://mhrise.kiranico.com/data/monsters/2084266193"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_00.png",
+    "id": "em095_00",
+    "name": "Almudron",
+    "link": "https://mhrise.kiranico.com/data/monsters/2040569941"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em058_00.png",
+    "id": "em058_00",
+    "name": "Amatsu",
+    "link": "https://mhrise.kiranico.com/data/monsters/1446526160"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em100_00.png",
+    "id": "em100_00",
+    "name": "Anjanath",
+    "link": "https://mhrise.kiranico.com/data/monsters/1743214542"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_07.png",
+    "id": "em060_07",
+    "name": "Apex Arzuros",
+    "link": "https://mhrise.kiranico.com/data/monsters/1192999830"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_07.png",
+    "id": "em007_07",
+    "name": "Apex Diablos",
+    "link": "https://mhrise.kiranico.com/data/monsters/36049421"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_07.png",
+    "id": "em082_07",
+    "name": "Apex Mizutsune",
+    "link": "https://mhrise.kiranico.com/data/monsters/2043189560"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_07.png",
+    "id": "em002_07",
+    "name": "Apex Rathalos",
+    "link": "https://mhrise.kiranico.com/data/monsters/99050216"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_07.png",
+    "id": "em001_07",
+    "name": "Apex Rathian",
+    "link": "https://mhrise.kiranico.com/data/monsters/453915339"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_07.png",
+    "id": "em057_07",
+    "name": "Apex Zinogre",
+    "link": "https://mhrise.kiranico.com/data/monsters/1150792755"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_00.png",
+    "id": "em060_00",
+    "name": "Arzuros",
+    "link": "https://mhrise.kiranico.com/data/monsters/1374346390"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em081_00.png",
+    "id": "em081_00",
+    "name": "Astalos",
+    "link": "https://mhrise.kiranico.com/data/monsters/1237729819"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_01.png",
+    "id": "em093_01",
+    "name": "Aurora Somnacanth",
+    "link": "https://mhrise.kiranico.com/data/monsters/88482199"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em042_00.png",
+    "id": "em042_00",
+    "name": "Barioth",
+    "link": "https://mhrise.kiranico.com/data/monsters/614678208"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em044_00.png",
+    "id": "em044_00",
+    "name": "Barroth",
+    "link": "https://mhrise.kiranico.com/data/monsters/643686022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em004_00.png",
+    "id": "em004_00",
+    "name": "Basarios",
+    "link": "https://mhrise.kiranico.com/data/monsters/274815918"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_00.png",
+    "id": "em118_00",
+    "name": "Bazelgeuse",
+    "link": "https://mhrise.kiranico.com/data/monsters/321844636"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_00.png",
+    "id": "em090_00",
+    "name": "Bishaten",
+    "link": "https://mhrise.kiranico.com/data/monsters/1935814960"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_01.png",
+    "id": "em090_01",
+    "name": "Blood Orange Bishaten",
+    "link": "https://mhrise.kiranico.com/data/monsters/447894064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_00.png",
+    "id": "em025_00",
+    "name": "Chameleos",
+    "link": "https://mhrise.kiranico.com/data/monsters/138201299"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_05.png",
+    "id": "em071_05",
+    "name": "Chaotic Gore Magala",
+    "link": "https://mhrise.kiranico.com/data/monsters/131188813"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_05.png",
+    "id": "em086_05",
+    "name": "Crimson Glow Valstrax",
+    "link": "https://mhrise.kiranico.com/data/monsters/815111868"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em019_00.png",
+    "id": "em019_00",
+    "name": "Daimyo Hermitaur",
+    "link": "https://mhrise.kiranico.com/data/monsters/19196313"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_00.png",
+    "id": "em007_00",
+    "name": "Diablos",
+    "link": "https://mhrise.kiranico.com/data/monsters/485829389"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_00.png",
+    "id": "em136_00",
+    "name": "Espinas",
+    "link": "https://mhrise.kiranico.com/data/monsters/141986722"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_01.png",
+    "id": "em136_01",
+    "name": "Flaming Espinas",
+    "link": "https://mhrise.kiranico.com/data/monsters/1472640162"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_05.png",
+    "id": "em023_05",
+    "name": "Furious Rajang",
+    "link": "https://mhrise.kiranico.com/data/monsters/1326634525"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em135_00.png",
+    "id": "em135_00",
+    "name": "Gaismagorm",
+    "link": "https://mhrise.kiranico.com/data/monsters/261970829"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em134_00.png",
+    "id": "em134_00",
+    "name": "Garangolm",
+    "link": "https://mhrise.kiranico.com/data/monsters/247196652"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_02.png",
+    "id": "em001_02",
+    "name": "Gold Rathian",
+    "link": "https://mhrise.kiranico.com/data/monsters/1518179787"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_00.png",
+    "id": "em071_00",
+    "name": "Gore Magala",
+    "link": "https://mhrise.kiranico.com/data/monsters/1161896781"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em097_00.png",
+    "id": "em097_00",
+    "name": "Goss Harag",
+    "link": "https://mhrise.kiranico.com/data/monsters/2069053547"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em054_00.png",
+    "id": "em054_00",
+    "name": "Great Baggi",
+    "link": "https://mhrise.kiranico.com/data/monsters/718470492"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em098_00.png",
+    "id": "em098_00",
+    "name": "Great Izuchi",
+    "link": "https://mhrise.kiranico.com/data/monsters/1681174536"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em059_00.png",
+    "id": "em059_00",
+    "name": "Great Wroggi",
+    "link": "https://mhrise.kiranico.com/data/monsters/1460759793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em108_00.png",
+    "id": "em108_00",
+    "name": "Jyuratodus",
+    "link": "https://mhrise.kiranico.com/data/monsters/1755961030"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em003_00.png",
+    "id": "em003_00",
+    "name": "Khezu",
+    "link": "https://mhrise.kiranico.com/data/monsters/395307913"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em107_00.png",
+    "id": "em107_00",
+    "name": "Kulu-Ya-Ku",
+    "link": "https://mhrise.kiranico.com/data/monsters/1875928865"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_00.png",
+    "id": "em024_00",
+    "name": "Kushala Daora",
+    "link": "https://mhrise.kiranico.com/data/monsters/257661234"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em061_00.png",
+    "id": "em061_00",
+    "name": "Lagombi",
+    "link": "https://mhrise.kiranico.com/data/monsters/1389104311"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_02.png",
+    "id": "em037_02",
+    "name": "Lucent Nargacuga",
+    "link": "https://mhrise.kiranico.com/data/monsters/1661782447"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em133_00.png",
+    "id": "em133_00",
+    "name": "Lunagaron",
+    "link": "https://mhrise.kiranico.com/data/monsters/232963023"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_01.png",
+    "id": "em095_01",
+    "name": "Magma Almudron",
+    "link": "https://mhrise.kiranico.com/data/monsters/15778133"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_00.png",
+    "id": "em089_00",
+    "name": "Magnamalo",
+    "link": "https://mhrise.kiranico.com/data/monsters/1921564947"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_00.png",
+    "id": "em132_00",
+    "name": "Malzeno",
+    "link": "https://mhrise.kiranico.com/data/monsters/50943022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_00.png",
+    "id": "em082_00",
+    "name": "Mizutsune",
+    "link": "https://mhrise.kiranico.com/data/monsters/1251979832"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_00.png",
+    "id": "em037_00",
+    "name": "Nargacuga",
+    "link": "https://mhrise.kiranico.com/data/monsters/1047302063"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_05.png",
+    "id": "em099_05",
+    "name": "Narwa the Allmother",
+    "link": "https://mhrise.kiranico.com/data/monsters/664702249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em102_00.png",
+    "id": "em102_00",
+    "name": "Pukei-Pukei",
+    "link": "https://mhrise.kiranico.com/data/monsters/1636956044"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_01.png",
+    "id": "em094_01",
+    "name": "Pyre Rakna-Kadaki",
+    "link": "https://mhrise.kiranico.com/data/monsters/102732212"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_00.png",
+    "id": "em023_00",
+    "name": "Rajang",
+    "link": "https://mhrise.kiranico.com/data/monsters/243411229"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_00.png",
+    "id": "em094_00",
+    "name": "Rakna-Kadaki",
+    "link": "https://mhrise.kiranico.com/data/monsters/2026860724"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_00.png",
+    "id": "em002_00",
+    "name": "Rathalos",
+    "link": "https://mhrise.kiranico.com/data/monsters/381074408"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_00.png",
+    "id": "em001_00",
+    "name": "Rathian",
+    "link": "https://mhrise.kiranico.com/data/monsters/366824395"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_08.png",
+    "id": "em025_08",
+    "name": "Risen Chameleos",
+    "link": "https://mhrise.kiranico.com/data/monsters/1186844883"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_08.png",
+    "id": "em086_08",
+    "name": "Risen Crimson Glow Valstrax",
+    "link": "https://mhrise.kiranico.com/data/monsters/210106812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_08.png",
+    "id": "em024_08",
+    "name": "Risen Kushala Daora",
+    "link": "https://mhrise.kiranico.com/data/monsters/1172594994"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_08.png",
+    "id": "em072_08",
+    "name": "Risen Shagaru Magala",
+    "link": "https://mhrise.kiranico.com/data/monsters/479959906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_08.png",
+    "id": "em027_08",
+    "name": "Risen Teostra",
+    "link": "https://mhrise.kiranico.com/data/monsters/1080586385"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em047_00.png",
+    "id": "em047_00",
+    "name": "Royal Ludroth",
+    "link": "https://mhrise.kiranico.com/data/monsters/585215589"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_05.png",
+    "id": "em089_05",
+    "name": "Scorned Magnamalo",
+    "link": "https://mhrise.kiranico.com/data/monsters/857304595"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_05.png",
+    "id": "em118_05",
+    "name": "Seething Bazelgeuse",
+    "link": "https://mhrise.kiranico.com/data/monsters/1572835996"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em077_00.png",
+    "id": "em077_00",
+    "name": "Seregios",
+    "link": "https://mhrise.kiranico.com/data/monsters/1280901767"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_00.png",
+    "id": "em072_00",
+    "name": "Shagaru Magala",
+    "link": "https://mhrise.kiranico.com/data/monsters/1176146786"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em020_00.png",
+    "id": "em020_00",
+    "name": "Shogun Ceanataur",
+    "link": "https://mhrise.kiranico.com/data/monsters/67000766"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_02.png",
+    "id": "em002_02",
+    "name": "Silver Rathalos",
+    "link": "https://mhrise.kiranico.com/data/monsters/1532413416"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_00.png",
+    "id": "em093_00",
+    "name": "Somnacanth",
+    "link": "https://mhrise.kiranico.com/data/monsters/2146828439"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_00.png",
+    "id": "em027_00",
+    "name": "Teostra",
+    "link": "https://mhrise.kiranico.com/data/monsters/200239249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em092_00.png",
+    "id": "em092_00",
+    "name": "Tetranadon",
+    "link": "https://mhrise.kiranico.com/data/monsters/2099040502"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_00.png",
+    "id": "em099_00",
+    "name": "Thunder Serpent Narwa",
+    "link": "https://mhrise.kiranico.com/data/monsters/1695408169"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em032_00.png",
+    "id": "em032_00",
+    "name": "Tigrex",
+    "link": "https://mhrise.kiranico.com/data/monsters/808327178"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em109_00.png",
+    "id": "em109_00",
+    "name": "Tobi-Kadachi",
+    "link": "https://mhrise.kiranico.com/data/monsters/1770194663"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em124_00.png",
+    "id": "em124_00",
+    "name": "Velkhana",
+    "link": "https://mhrise.kiranico.com/data/monsters/440849622"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_02.png",
+    "id": "em082_02",
+    "name": "Violet Mizutsune",
+    "link": "https://mhrise.kiranico.com/data/monsters/1061157944"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em062_00.png",
+    "id": "em062_00",
+    "name": "Volvidon",
+    "link": "https://mhrise.kiranico.com/data/monsters/1403354196"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em096_00.png",
+    "id": "em096_00",
+    "name": "Wind Serpent Ibushi",
+    "link": "https://mhrise.kiranico.com/data/monsters/2054819914"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_00.png",
+    "id": "em057_00",
+    "name": "Zinogre",
+    "link": "https://mhrise.kiranico.com/data/monsters/1432800563"
+  }
+]

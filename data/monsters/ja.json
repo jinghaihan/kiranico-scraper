@@ -1,0 +1,470 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_05.png",
+    "id": "em132_05",
+    "name": "原初を刻むメル・ゼナ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1301934382"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_00.png",
+    "id": "em060_00",
+    "name": "アオアシラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1374346390"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em091_00.png",
+    "id": "em091_00",
+    "name": "アケノシルム",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2084266193"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em058_00.png",
+    "id": "em058_00",
+    "name": "アマツマガツチ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1446526160"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em100_00.png",
+    "id": "em100_00",
+    "name": "アンジャナフ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1743214542"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_00.png",
+    "id": "em093_00",
+    "name": "イソネミクニ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2146828439"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_01.png",
+    "id": "em093_01",
+    "name": "イソネミクニ亜種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/88482199"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em096_00.png",
+    "id": "em096_00",
+    "name": "イブシマキヒコ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2054819914"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em124_00.png",
+    "id": "em124_00",
+    "name": "イヴェルカーナ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/440849622"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em061_00.png",
+    "id": "em061_00",
+    "name": "ウルクスス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1389104311"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_00.png",
+    "id": "em136_00",
+    "name": "エスピナス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/141986722"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_01.png",
+    "id": "em136_01",
+    "name": "エスピナス亜種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1472640162"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_00.png",
+    "id": "em025_00",
+    "name": "オオナズチ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/138201299"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em098_00.png",
+    "id": "em098_00",
+    "name": "オサイズチ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1681174536"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_00.png",
+    "id": "em095_00",
+    "name": "オロミドロ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2040569941"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_01.png",
+    "id": "em095_01",
+    "name": "オロミドロ亜種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/15778133"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em135_00.png",
+    "id": "em135_00",
+    "name": "ガイアデルム",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/261970829"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em134_00.png",
+    "id": "em134_00",
+    "name": "ガランゴルム",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/247196652"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_00.png",
+    "id": "em024_00",
+    "name": "クシャルダオラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/257661234"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em107_00.png",
+    "id": "em107_00",
+    "name": "クルルヤック",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1875928865"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_00.png",
+    "id": "em071_00",
+    "name": "ゴア・マガラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1161896781"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em097_00.png",
+    "id": "em097_00",
+    "name": "ゴシャハギ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2069053547"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_00.png",
+    "id": "em072_00",
+    "name": "シャガルマガラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1176146786"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em020_00.png",
+    "id": "em020_00",
+    "name": "ショウグンギザミ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/67000766"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em108_00.png",
+    "id": "em108_00",
+    "name": "ジュラトドス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1755961030"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_00.png",
+    "id": "em057_00",
+    "name": "ジンオウガ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1432800563"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em077_00.png",
+    "id": "em077_00",
+    "name": "セルレギオス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1280901767"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_00.png",
+    "id": "em082_00",
+    "name": "タマミツネ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1251979832"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_02.png",
+    "id": "em082_02",
+    "name": "タマミツネ希少種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1061157944"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em019_00.png",
+    "id": "em019_00",
+    "name": "ダイミョウザザミ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/19196313"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em032_00.png",
+    "id": "em032_00",
+    "name": "ティガレックス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/808327178"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_00.png",
+    "id": "em027_00",
+    "name": "テオ・テスカトル",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/200239249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_00.png",
+    "id": "em007_00",
+    "name": "ディアブロス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/485829389"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em109_00.png",
+    "id": "em109_00",
+    "name": "トビカガチ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1770194663"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em054_00.png",
+    "id": "em054_00",
+    "name": "ドスバギィ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/718470492"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em059_00.png",
+    "id": "em059_00",
+    "name": "ドスフロギィ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1460759793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_00.png",
+    "id": "em037_00",
+    "name": "ナルガクルガ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1047302063"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_02.png",
+    "id": "em037_02",
+    "name": "ナルガクルガ希少種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1661782447"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_00.png",
+    "id": "em099_00",
+    "name": "ナルハタタヒメ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1695408169"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_07.png",
+    "id": "em060_07",
+    "name": "ヌシ・アオアシラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1192999830"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_07.png",
+    "id": "em057_07",
+    "name": "ヌシ・ジンオウガ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1150792755"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_07.png",
+    "id": "em082_07",
+    "name": "ヌシ・タマミツネ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2043189560"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_07.png",
+    "id": "em007_07",
+    "name": "ヌシ・ディアブロス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/36049421"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_07.png",
+    "id": "em001_07",
+    "name": "ヌシ・リオレイア",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/453915339"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_07.png",
+    "id": "em002_07",
+    "name": "ヌシ・リオレウス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/99050216"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em004_00.png",
+    "id": "em004_00",
+    "name": "バサルモス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/274815918"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_00.png",
+    "id": "em118_00",
+    "name": "バゼルギウス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/321844636"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_00.png",
+    "id": "em090_00",
+    "name": "ビシュテンゴ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1935814960"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_01.png",
+    "id": "em090_01",
+    "name": "ビシュテンゴ亜種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/447894064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em003_00.png",
+    "id": "em003_00",
+    "name": "フルフル",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/395307913"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em102_00.png",
+    "id": "em102_00",
+    "name": "プケプケ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1636956044"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em042_00.png",
+    "id": "em042_00",
+    "name": "ベリオロス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/614678208"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em044_00.png",
+    "id": "em044_00",
+    "name": "ボルボロス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/643686022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_00.png",
+    "id": "em089_00",
+    "name": "マガイマガド",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1921564947"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_00.png",
+    "id": "em132_00",
+    "name": "メル・ゼナ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/50943022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_00.png",
+    "id": "em094_00",
+    "name": "ヤツカダキ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2026860724"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_01.png",
+    "id": "em094_01",
+    "name": "ヤツカダキ亜種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/102732212"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em092_00.png",
+    "id": "em092_00",
+    "name": "ヨツミワドウ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/2099040502"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em081_00.png",
+    "id": "em081_00",
+    "name": "ライゼクス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1237729819"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em062_00.png",
+    "id": "em062_00",
+    "name": "ラングロトラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1403354196"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_00.png",
+    "id": "em023_00",
+    "name": "ラージャン",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/243411229"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_00.png",
+    "id": "em001_00",
+    "name": "リオレイア",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/366824395"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_02.png",
+    "id": "em001_02",
+    "name": "リオレイア希少種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1518179787"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_00.png",
+    "id": "em002_00",
+    "name": "リオレウス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/381074408"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_02.png",
+    "id": "em002_02",
+    "name": "リオレウス希少種",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1532413416"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em133_00.png",
+    "id": "em133_00",
+    "name": "ルナガロン",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/232963023"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em047_00.png",
+    "id": "em047_00",
+    "name": "ロアルドロス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/585215589"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_08.png",
+    "id": "em025_08",
+    "name": "傀異克服オオナズチ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1186844883"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_08.png",
+    "id": "em024_08",
+    "name": "傀異克服クシャルダオラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1172594994"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_08.png",
+    "id": "em072_08",
+    "name": "傀異克服シャガルマガラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/479959906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_08.png",
+    "id": "em027_08",
+    "name": "傀異克服テオ・テスカトル",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1080586385"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_08.png",
+    "id": "em086_08",
+    "name": "傀異克服バルファルク",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/210106812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_05.png",
+    "id": "em086_05",
+    "name": "奇しき赫耀のバルファルク",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/815111868"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_05.png",
+    "id": "em089_05",
+    "name": "怨嗟響めくマガイマガド",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/857304595"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_05.png",
+    "id": "em071_05",
+    "name": "渾沌に呻くゴア・マガラ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/131188813"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_05.png",
+    "id": "em023_05",
+    "name": "激昂したラージャン",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1326634525"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_05.png",
+    "id": "em099_05",
+    "name": "百竜ノ淵源ナルハタタヒメ",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/664702249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_05.png",
+    "id": "em118_05",
+    "name": "紅蓮滾るバゼルギウス",
+    "link": "https://mhrise.kiranico.com/ja/data/monsters/1572835996"
+  }
+]

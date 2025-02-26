@@ -1,0 +1,470 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_05.png",
+    "id": "em132_05",
+    "name": "原初爵銀龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1301934382"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_00.png",
+    "id": "em093_00",
+    "name": "人魚龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2146828439"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em091_00.png",
+    "id": "em091_00",
+    "name": "傘鳥",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2084266193"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em135_00.png",
+    "id": "em135_00",
+    "name": "冥淵龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/261970829"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_01.png",
+    "id": "em093_01",
+    "name": "冰人魚龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/88482199"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em124_00.png",
+    "id": "em124_00",
+    "name": "冰呪龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/440849622"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em042_00.png",
+    "id": "em042_00",
+    "name": "冰牙龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/614678208"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em133_00.png",
+    "id": "em133_00",
+    "name": "冰狼龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/232963023"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em134_00.png",
+    "id": "em134_00",
+    "name": "剛纏獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/247196652"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em077_00.png",
+    "id": "em077_00",
+    "name": "千刃龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1280901767"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_05.png",
+    "id": "em089_05",
+    "name": "嗟怨轟天怨虎龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/857304595"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em044_00.png",
+    "id": "em044_00",
+    "name": "土砂龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/643686022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em019_00.png",
+    "id": "em019_00",
+    "name": "大名蟹",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/19196313"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_08.png",
+    "id": "em086_08",
+    "name": "天彗龍（傀異克服）",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/210106812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_00.png",
+    "id": "em090_00",
+    "name": "天狗獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1935814960"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_00.png",
+    "id": "em072_00",
+    "name": "天迴龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1176146786"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_08.png",
+    "id": "em072_08",
+    "name": "天迴龍（傀異克服）",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/479959906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em003_00.png",
+    "id": "em003_00",
+    "name": "奇怪龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/395307913"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_00.png",
+    "id": "em094_00",
+    "name": "妃蜘蛛",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2026860724"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em020_00.png",
+    "id": "em020_00",
+    "name": "將軍蟹",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/67000766"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em004_00.png",
+    "id": "em004_00",
+    "name": "岩龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/274815918"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em058_00.png",
+    "id": "em058_00",
+    "name": "嵐龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1446526160"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_00.png",
+    "id": "em089_00",
+    "name": "怨虎龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1921564947"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em107_00.png",
+    "id": "em107_00",
+    "name": "搔鳥",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1875928865"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_02.png",
+    "id": "em037_02",
+    "name": "月迅龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1661782447"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_01.png",
+    "id": "em136_01",
+    "name": "棘茶龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1472640162"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_00.png",
+    "id": "em136_00",
+    "name": "棘龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/141986722"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em102_00.png",
+    "id": "em102_00",
+    "name": "毒妖鳥",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1636956044"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em059_00.png",
+    "id": "em059_00",
+    "name": "毒狗龍王",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1460759793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em047_00.png",
+    "id": "em047_00",
+    "name": "水獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/585215589"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em092_00.png",
+    "id": "em092_00",
+    "name": "河童蛙",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2099040502"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_00.png",
+    "id": "em082_00",
+    "name": "泡狐龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1251979832"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_00.png",
+    "id": "em095_00",
+    "name": "泥翁龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2040569941"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em108_00.png",
+    "id": "em108_00",
+    "name": "泥魚龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1755961030"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_05.png",
+    "id": "em071_05",
+    "name": "混沌黑蝕龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/131188813"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_05.png",
+    "id": "em023_05",
+    "name": "激昂金獅子",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1326634525"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_00.png",
+    "id": "em002_00",
+    "name": "火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/381074408"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_00.png",
+    "id": "em027_00",
+    "name": "炎王龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/200239249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_08.png",
+    "id": "em027_08",
+    "name": "炎王龍（傀異克服）",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1080586385"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_02.png",
+    "id": "em082_02",
+    "name": "焰狐龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1061157944"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_01.png",
+    "id": "em095_01",
+    "name": "熔翁龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/15778133"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_01.png",
+    "id": "em094_01",
+    "name": "熾妃蜘蛛",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/102732212"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_00.png",
+    "id": "em118_00",
+    "name": "爆鱗龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/321844636"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_00.png",
+    "id": "em132_00",
+    "name": "爵銀龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/50943022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em061_00.png",
+    "id": "em061_00",
+    "name": "白兔獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1389104311"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_05.png",
+    "id": "em099_05",
+    "name": "百龍之源雷神龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/664702249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em054_00.png",
+    "id": "em054_00",
+    "name": "眠狗龍王",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/718470492"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_05.png",
+    "id": "em086_05",
+    "name": "秘紅赫耀的天彗龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/815111868"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_05.png",
+    "id": "em118_05",
+    "name": "紅蓮爆鱗龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1572835996"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_01.png",
+    "id": "em090_01",
+    "name": "緋天狗獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/447894064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em100_00.png",
+    "id": "em100_00",
+    "name": "蠻顎龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1743214542"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_00.png",
+    "id": "em007_00",
+    "name": "角龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/485829389"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em062_00.png",
+    "id": "em062_00",
+    "name": "赤甲獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1403354196"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em032_00.png",
+    "id": "em032_00",
+    "name": "轟龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/808327178"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_00.png",
+    "id": "em037_00",
+    "name": "迅龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1047302063"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_02.png",
+    "id": "em001_02",
+    "name": "金火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1518179787"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_00.png",
+    "id": "em023_00",
+    "name": "金獅子",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/243411229"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_02.png",
+    "id": "em002_02",
+    "name": "銀火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1532413416"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_00.png",
+    "id": "em024_00",
+    "name": "鋼龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/257661234"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_08.png",
+    "id": "em024_08",
+    "name": "鋼龍（傀異克服）",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1172594994"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em098_00.png",
+    "id": "em098_00",
+    "name": "鐮鼬龍王",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1681174536"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_00.png",
+    "id": "em001_00",
+    "name": "雌火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/366824395"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em097_00.png",
+    "id": "em097_00",
+    "name": "雪鬼獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2069053547"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_00.png",
+    "id": "em057_00",
+    "name": "雷狼龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1432800563"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_00.png",
+    "id": "em099_00",
+    "name": "雷神龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1695408169"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em081_00.png",
+    "id": "em081_00",
+    "name": "電龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1237729819"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_00.png",
+    "id": "em025_00",
+    "name": "霞龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/138201299"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_08.png",
+    "id": "em025_08",
+    "name": "霞龍（傀異克服）",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1186844883"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_00.png",
+    "id": "em060_00",
+    "name": "青熊獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1374346390"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em096_00.png",
+    "id": "em096_00",
+    "name": "風神龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2054819914"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em109_00.png",
+    "id": "em109_00",
+    "name": "飛雷龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1770194663"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_07.png",
+    "id": "em082_07",
+    "name": "首領泡狐龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/2043189560"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_07.png",
+    "id": "em002_07",
+    "name": "首領火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/99050216"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_07.png",
+    "id": "em007_07",
+    "name": "首領角龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/36049421"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_07.png",
+    "id": "em001_07",
+    "name": "首領雌火龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/453915339"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_07.png",
+    "id": "em057_07",
+    "name": "首領雷狼龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1150792755"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_07.png",
+    "id": "em060_07",
+    "name": "首領青熊獸",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1192999830"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_00.png",
+    "id": "em071_00",
+    "name": "黑蝕龍",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/monsters/1161896781"
+  }
+]

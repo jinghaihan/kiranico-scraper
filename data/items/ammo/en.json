@@ -1,0 +1,398 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/931792983.png",
+    "id": "931792983",
+    "name": "Normal Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/931792983"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/811825268.png",
+    "id": "811825268",
+    "name": "Normal Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/811825268"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/826583061.png",
+    "id": "826583061",
+    "name": "Normal Ammo 3",
+    "link": "https://mhrise.kiranico.com/data/items/826583061"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/840833034.png",
+    "id": "840833034",
+    "name": "Pierce Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/840833034"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1022838827.png",
+    "id": "1022838827",
+    "name": "Pierce Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/1022838827"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1036566472.png",
+    "id": "1036566472",
+    "name": "Pierce Ammo 3",
+    "link": "https://mhrise.kiranico.com/data/items/1036566472"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1050800105.png",
+    "id": "1050800105",
+    "name": "Spread Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/1050800105"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1065049998.png",
+    "id": "1065049998",
+    "name": "Spread Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/1065049998"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/945590191.png",
+    "id": "945590191",
+    "name": "Spread Ammo 3",
+    "link": "https://mhrise.kiranico.com/data/items/945590191"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/873540448.png",
+    "id": "873540448",
+    "name": "Shrapnel Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/873540448"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/921344769.png",
+    "id": "921344769",
+    "name": "Shrapnel Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/921344769"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/935578406.png",
+    "id": "935578406",
+    "name": "Shrapnel Ammo 3",
+    "link": "https://mhrise.kiranico.com/data/items/935578406"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/959840076.png",
+    "id": "959840076",
+    "name": "Sticky Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/959840076"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/974073709.png",
+    "id": "974073709",
+    "name": "Sticky Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/974073709"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/636717490.png",
+    "id": "636717490",
+    "name": "Sticky Ammo 3",
+    "link": "https://mhrise.kiranico.com/data/items/636717490"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/618700546.png",
+    "id": "618700546",
+    "name": "Cluster Bomb 1",
+    "link": "https://mhrise.kiranico.com/data/items/618700546"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/632934179.png",
+    "id": "632934179",
+    "name": "Cluster Bomb 2",
+    "link": "https://mhrise.kiranico.com/data/items/632934179"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/651491667.png",
+    "id": "651491667",
+    "name": "Cluster Bomb 3",
+    "link": "https://mhrise.kiranico.com/data/items/651491667"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/675212793.png",
+    "id": "675212793",
+    "name": "Flaming Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/675212793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/573716695.png",
+    "id": "573716695",
+    "name": "Piercing Fire Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/573716695"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/688938398.png",
+    "id": "688938398",
+    "name": "Water Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/688938398"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/587950324.png",
+    "id": "587950324",
+    "name": "Piercing Water Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/587950324"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/736726463.png",
+    "id": "736726463",
+    "name": "Thunder Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/736726463"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/784730250.png",
+    "id": "784730250",
+    "name": "Piercing Thunder Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/784730250"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1422064988.png",
+    "id": "1422064988",
+    "name": "Freeze Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1422064988"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/770496661.png",
+    "id": "770496661",
+    "name": "Piercing Ice Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/770496661"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/798980267.png",
+    "id": "798980267",
+    "name": "Dragon Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/798980267"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/678471752.png",
+    "id": "678471752",
+    "name": "Piercing Dragon Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/678471752"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1436822909.png",
+    "id": "1436822909",
+    "name": "Slicing Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1436822909"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1451072786.png",
+    "id": "1451072786",
+    "name": "Wyvern Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1451072786"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/647184064.png",
+    "id": "647184064",
+    "name": "Poison Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/647184064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/661941985.png",
+    "id": "661941985",
+    "name": "Poison Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/661941985"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/541974150.png",
+    "id": "541974150",
+    "name": "Paralysis Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/541974150"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/556207783.png",
+    "id": "556207783",
+    "name": "Paralysis Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/556207783"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/603487812.png",
+    "id": "603487812",
+    "name": "Sleep Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/603487812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/751939173.png",
+    "id": "751939173",
+    "name": "Sleep Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/751939173"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/766189082.png",
+    "id": "766189082",
+    "name": "Exhaust Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/766189082"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/780947003.png",
+    "id": "780947003",
+    "name": "Exhaust Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/780947003"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/795196888.png",
+    "id": "795196888",
+    "name": "Recover Ammo 1",
+    "link": "https://mhrise.kiranico.com/data/items/795196888"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/665725296.png",
+    "id": "665725296",
+    "name": "Recover Ammo 2",
+    "link": "https://mhrise.kiranico.com/data/items/665725296"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/545757457.png",
+    "id": "545757457",
+    "name": "Demon Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/545757457"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/559466806.png",
+    "id": "559466806",
+    "name": "Armor Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/559466806"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1465306419.png",
+    "id": "1465306419",
+    "name": "Tranq Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1465306419"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1344814288.png",
+    "id": "1344814288",
+    "name": "Power Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1344814288"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1406852246.png",
+    "id": "1406852246",
+    "name": "Poison Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1406852246"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1555827895.png",
+    "id": "1555827895",
+    "name": "Para Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1555827895"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1570077780.png",
+    "id": "1570077780",
+    "name": "Sleep Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1570077780"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1584311413.png",
+    "id": "1584311413",
+    "name": "Blast Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1584311413"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1598037098.png",
+    "id": "1598037098",
+    "name": "Close-range Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1598037098"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1478052875.png",
+    "id": "1478052875",
+    "name": "Exhaust Coating",
+    "link": "https://mhrise.kiranico.com/data/items/1478052875"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2032988738.png",
+    "id": "2032988738",
+    "name": "Ballista Shot",
+    "link": "https://mhrise.kiranico.com/data/items/2032988738"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2047222371.png",
+    "id": "2047222371",
+    "name": "Crag Shot",
+    "link": "https://mhrise.kiranico.com/data/items/2047222371"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1692373504.png",
+    "id": "1692373504",
+    "name": "Retreat Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1692373504"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1706082849.png",
+    "id": "1706082849",
+    "name": "Cannon Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1706082849"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1734566375.png",
+    "id": "1734566375",
+    "name": "C. Thunder Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1734566375"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1615122820.png",
+    "id": "1615122820",
+    "name": "Flaming Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1615122820"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1629356453.png",
+    "id": "1629356453",
+    "name": "Flaming Beam",
+    "link": "https://mhrise.kiranico.com/data/items/1629356453"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1825087867.png",
+    "id": "1825087867",
+    "name": "Q. Rapid Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1825087867"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1839337752.png",
+    "id": "1839337752",
+    "name": "Q. Cluster Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1839337752"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1853571385.png",
+    "id": "1853571385",
+    "name": "Silkbind Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1853571385"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1373793257.png",
+    "id": "1373793257",
+    "name": "C. Piercing Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1373793257"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1565502317.png",
+    "id": "1565502317",
+    "name": "2x Ballista Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1565502317"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1579227906.png",
+    "id": "1579227906",
+    "name": "3x Ballista Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1579227906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1103940155.png",
+    "id": "1103940155",
+    "name": "2x Cannon Ammo",
+    "link": "https://mhrise.kiranico.com/data/items/1103940155"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1118190040.png",
+    "id": "1118190040",
+    "name": "2x Cannon Ammo+",
+    "link": "https://mhrise.kiranico.com/data/items/1118190040"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1300991133.png",
+    "id": "1300991133",
+    "name": "Silkbinder Shot",
+    "link": "https://mhrise.kiranico.com/data/items/1300991133"
+  }
+]

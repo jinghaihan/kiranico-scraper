@@ -1,0 +1,737 @@
+[
+  {
+    "id": "366824395",
+    "name": "攻擊",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/366824395"
+  },
+  {
+    "id": "381074408",
+    "name": "挑戰者",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/381074408"
+  },
+  {
+    "id": "395307913",
+    "name": "無傷",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/395307913"
+  },
+  {
+    "id": "274815918",
+    "name": "怨恨",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/274815918"
+  },
+  {
+    "id": "289049423",
+    "name": "死裡逃生",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/289049423"
+  },
+  {
+    "id": "303299436",
+    "name": "看破",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/303299436"
+  },
+  {
+    "id": "485829389",
+    "name": "超會心",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/485829389"
+  },
+  {
+    "id": "500079394",
+    "name": "弱點特效",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/500079394"
+  },
+  {
+    "id": "514312899",
+    "name": "力量解放",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/514312899"
+  },
+  {
+    "id": "528038624",
+    "name": "精神抖擻",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/528038624"
+  },
+  {
+    "id": "408054401",
+    "name": "會心擊【屬性】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/408054401"
+  },
+  {
+    "id": "422304422",
+    "name": "達人藝",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/422304422"
+  },
+  {
+    "id": "437062215",
+    "name": "火屬性攻擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/437062215"
+  },
+  {
+    "id": "82213476",
+    "name": "水屬性攻擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/82213476"
+  },
+  {
+    "id": "96446981",
+    "name": "冰屬性攻擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/96446981"
+  },
+  {
+    "id": "110172730",
+    "name": "雷屬性攻擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/110172730"
+  },
+  {
+    "id": "124406235",
+    "name": "龍屬性攻擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/124406235"
+  },
+  {
+    "id": "4438520",
+    "name": "毒屬性強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/4438520"
+  },
+  {
+    "id": "19196313",
+    "name": "麻痺屬性強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/19196313"
+  },
+  {
+    "id": "67000766",
+    "name": "睡眠屬性強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/67000766"
+  },
+  {
+    "id": "215451999",
+    "name": "爆破屬性強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/215451999"
+  },
+  {
+    "id": "229177724",
+    "name": "匠",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/229177724"
+  },
+  {
+    "id": "243411229",
+    "name": "利刃",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/243411229"
+  },
+  {
+    "id": "257661234",
+    "name": "彈藥節約",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/257661234"
+  },
+  {
+    "id": "138201299",
+    "name": "剛刃研磨",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/138201299"
+  },
+  {
+    "id": "152451312",
+    "name": "心眼",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/152451312"
+  },
+  {
+    "id": "200239249",
+    "name": "彈道強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/200239249"
+  },
+  {
+    "id": "885053622",
+    "name": "鈍器能手",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/885053622"
+  },
+  {
+    "id": "899287127",
+    "name": "解放弓的蓄力階段",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/899287127"
+  },
+  {
+    "id": "913537140",
+    "name": "集中",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/913537140"
+  },
+  {
+    "id": "928294933",
+    "name": "強化持續",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/928294933"
+  },
+  {
+    "id": "808327178",
+    "name": "跑者",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/808327178"
+  },
+  {
+    "id": "822560811",
+    "name": "體術",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/822560811"
+  },
+  {
+    "id": "869842888",
+    "name": "耐力急速回復",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/869842888"
+  },
+  {
+    "id": "1018294249",
+    "name": "防禦性能",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1018294249"
+  },
+  {
+    "id": "1032544142",
+    "name": "防禦強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1032544142"
+  },
+  {
+    "id": "1047302063",
+    "name": "攻擊守勢",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1047302063"
+  },
+  {
+    "id": "1061551948",
+    "name": "拔刀術【技】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1061551948"
+  },
+  {
+    "id": "941567853",
+    "name": "拔刀術【力】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/941567853"
+  },
+  {
+    "id": "988847874",
+    "name": "收刀術",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/988847874"
+  },
+  {
+    "id": "1003081507",
+    "name": "KO術",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1003081507"
+  },
+  {
+    "id": "614678208",
+    "name": "奪取耐力",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/614678208"
+  },
+  {
+    "id": "629436129",
+    "name": "滑走強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/629436129"
+  },
+  {
+    "id": "643686022",
+    "name": "吹笛名人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/643686022"
+  },
+  {
+    "id": "657919655",
+    "name": "砲術",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/657919655"
+  },
+  {
+    "id": "537427524",
+    "name": "砲彈裝填",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/537427524"
+  },
+  {
+    "id": "585215589",
+    "name": "特殊射擊強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/585215589"
+  },
+  {
+    "id": "599465498",
+    "name": "通常彈･連射箭強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/599465498"
+  },
+  {
+    "id": "748441147",
+    "name": "貫通彈･貫通箭強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/748441147"
+  },
+  {
+    "id": "762691032",
+    "name": "散彈･擴散箭強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/762691032"
+  },
+  {
+    "id": "776924665",
+    "name": "裝填擴充",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/776924665"
+  },
+  {
+    "id": "790650270",
+    "name": "裝填速度",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/790650270"
+  },
+  {
+    "id": "704220607",
+    "name": "後座力減輕",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/704220607"
+  },
+  {
+    "id": "718470492",
+    "name": "抑制偏移",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/718470492"
+  },
+  {
+    "id": "733228413",
+    "name": "速射強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/733228413"
+  },
+  {
+    "id": "1418566930",
+    "name": "防禦",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1418566930"
+  },
+  {
+    "id": "1432800563",
+    "name": "精靈加護",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1432800563"
+  },
+  {
+    "id": "1446526160",
+    "name": "體力回復量UP",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1446526160"
+  },
+  {
+    "id": "1460759793",
+    "name": "回復速度",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1460759793"
+  },
+  {
+    "id": "1374346390",
+    "name": "快吃",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1374346390"
+  },
+  {
+    "id": "1389104311",
+    "name": "耳塞",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1389104311"
+  },
+  {
+    "id": "1403354196",
+    "name": "風壓耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1403354196"
+  },
+  {
+    "id": "1551805557",
+    "name": "耐震",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1551805557"
+  },
+  {
+    "id": "1565531242",
+    "name": "泡沫之舞",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1565531242"
+  },
+  {
+    "id": "1579764747",
+    "name": "迴避性能",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1579764747"
+  },
+  {
+    "id": "1594014760",
+    "name": "迴避距離UP",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1594014760"
+  },
+  {
+    "id": "1507582921",
+    "name": "火耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1507582921"
+  },
+  {
+    "id": "1522357230",
+    "name": "水耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1522357230"
+  },
+  {
+    "id": "1536590735",
+    "name": "冰耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1536590735"
+  },
+  {
+    "id": "1148187564",
+    "name": "雷耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1148187564"
+  },
+  {
+    "id": "1161896781",
+    "name": "龍耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1161896781"
+  },
+  {
+    "id": "1176146786",
+    "name": "屬性異常狀態的耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1176146786"
+  },
+  {
+    "id": "1089716995",
+    "name": "毒耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1089716995"
+  },
+  {
+    "id": "1104491296",
+    "name": "麻痺耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1104491296"
+  },
+  {
+    "id": "1118724801",
+    "name": "睡眠耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1118724801"
+  },
+  {
+    "id": "1132974822",
+    "name": "昏厥耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1132974822"
+  },
+  {
+    "id": "1280901767",
+    "name": "泥雪耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1280901767"
+  },
+  {
+    "id": "1295151780",
+    "name": "爆破異常狀態的耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1295151780"
+  },
+  {
+    "id": "1309385285",
+    "name": "植生學",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1309385285"
+  },
+  {
+    "id": "1223496314",
+    "name": "地質學",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1223496314"
+  },
+  {
+    "id": "1237729819",
+    "name": "破壞王",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1237729819"
+  },
+  {
+    "id": "1251979832",
+    "name": "捕獲名人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1251979832"
+  },
+  {
+    "id": "1265689049",
+    "name": "剝取名人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1265689049"
+  },
+  {
+    "id": "1951027710",
+    "name": "幸運",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1951027710"
+  },
+  {
+    "id": "1965261215",
+    "name": "砥石使用高速化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1965261215"
+  },
+  {
+    "id": "1980035516",
+    "name": "炸彈客",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1980035516"
+  },
+  {
+    "id": "1893605725",
+    "name": "最愛菇類",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1893605725"
+  },
+  {
+    "id": "1907855730",
+    "name": "道具使用強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1907855730"
+  },
+  {
+    "id": "1921564947",
+    "name": "廣域化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1921564947"
+  },
+  {
+    "id": "1935814960",
+    "name": "滿足感",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1935814960"
+  },
+  {
+    "id": "2084266193",
+    "name": "火場怪力",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2084266193"
+  },
+  {
+    "id": "2099040502",
+    "name": "不屈",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2099040502"
+  },
+  {
+    "id": "2146828439",
+    "name": "減輕膽怯",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2146828439"
+  },
+  {
+    "id": "2026860724",
+    "name": "跳躍鐵人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2026860724"
+  },
+  {
+    "id": "2040569941",
+    "name": "剝取鐵人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2040569941"
+  },
+  {
+    "id": "2054819914",
+    "name": "飢餓耐性",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2054819914"
+  },
+  {
+    "id": "2069053547",
+    "name": "飛身躍入",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/2069053547"
+  },
+  {
+    "id": "1681174536",
+    "name": "佯攻",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1681174536"
+  },
+  {
+    "id": "1695408169",
+    "name": "騎乘名人",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1695408169"
+  },
+  {
+    "id": "1743214542",
+    "name": "霞皮之恩惠",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1743214542"
+  },
+  {
+    "id": "1622706159",
+    "name": "鋼殼之恩惠",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1622706159"
+  },
+  {
+    "id": "1636956044",
+    "name": "炎鱗之恩惠",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1636956044"
+  },
+  {
+    "id": "1651189677",
+    "name": "龍氣活化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1651189677"
+  },
+  {
+    "id": "1665963842",
+    "name": "翔蟲能手",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1665963842"
+  },
+  {
+    "id": "1814415203",
+    "name": "飛簷走壁",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1814415203"
+  },
+  {
+    "id": "1862219520",
+    "name": "逆襲",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1862219520"
+  },
+  {
+    "id": "1875928865",
+    "name": "高速變形",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1875928865"
+  },
+  {
+    "id": "1755961030",
+    "name": "鬼火纏身",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1755961030"
+  },
+  {
+    "id": "1770194663",
+    "name": "風紋一致",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1770194663"
+  },
+  {
+    "id": "1784968836",
+    "name": "雷紋一致",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1784968836"
+  },
+  {
+    "id": "1799202469",
+    "name": "風雷合一",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1799202469"
+  },
+  {
+    "id": "337057370",
+    "name": "血氣",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/337057370"
+  },
+  {
+    "id": "384321147",
+    "name": "伏魔響命",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/384321147"
+  },
+  {
+    "id": "398571032",
+    "name": "激昂",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/398571032"
+  },
+  {
+    "id": "278586937",
+    "name": "業鎧【修羅】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/278586937"
+  },
+  {
+    "id": "293361118",
+    "name": "轉禍為福",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/293361118"
+  },
+  {
+    "id": "307594751",
+    "name": "狂龍症【蝕】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/307594751"
+  },
+  {
+    "id": "321844636",
+    "name": "堅若磐石",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/321844636"
+  },
+  {
+    "id": "469771709",
+    "name": "奇襲",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/469771709"
+  },
+  {
+    "id": "517576018",
+    "name": "巧擊",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/517576018"
+  },
+  {
+    "id": "412366096",
+    "name": "合氣",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/412366096"
+  },
+  {
+    "id": "426599729",
+    "name": "款待",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/426599729"
+  },
+  {
+    "id": "440849622",
+    "name": "蓄力大師",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/440849622"
+  },
+  {
+    "id": "454558967",
+    "name": "攻勢",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/454558967"
+  },
+  {
+    "id": "99710100",
+    "name": "槍械改良",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/99710100"
+  },
+  {
+    "id": "113943733",
+    "name": "研磨術【銳】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/113943733"
+  },
+  {
+    "id": "128717994",
+    "name": "刃鱗研磨",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/128717994"
+  },
+  {
+    "id": "8733771",
+    "name": "飛簷走壁【翔】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/8733771"
+  },
+  {
+    "id": "232963023",
+    "name": "迅疾吐納",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/232963023"
+  },
+  {
+    "id": "22983784",
+    "name": "弱點特效【屬性】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/22983784"
+  },
+  {
+    "id": "37217289",
+    "name": "連擊",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/37217289"
+  },
+  {
+    "id": "50943022",
+    "name": "毅力",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/50943022"
+  },
+  {
+    "id": "247196652",
+    "name": "必定累積狀態異常值",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/247196652"
+  },
+  {
+    "id": "261970829",
+    "name": "剛心",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/261970829"
+  },
+  {
+    "id": "141986722",
+    "name": "異常累積強化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/141986722"
+  },
+  {
+    "id": "531809651",
+    "name": "煽動",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/531809651"
+  },
+  {
+    "id": "169945952",
+    "name": "暴風纏身",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/169945952"
+  },
+  {
+    "id": "888838913",
+    "name": "粉塵飛舞",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/888838913"
+  },
+  {
+    "id": "156236611",
+    "name": "狂化",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/156236611"
+  },
+  {
+    "id": "840071771",
+    "name": "奮鬥",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/840071771"
+  },
+  {
+    "id": "903072550",
+    "name": "寒氣鍊成",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/903072550"
+  },
+  {
+    "id": "917846727",
+    "name": "龍氣轉換",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/917846727"
+  },
+  {
+    "id": "932080356",
+    "name": "天衣無縫",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/932080356"
+  },
+  {
+    "id": "812112517",
+    "name": "狂龍症【翔】",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/812112517"
+  },
+  {
+    "id": "825821882",
+    "name": "血氣覺醒",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/825821882"
+  },
+  {
+    "id": "1022077560",
+    "name": "緩衝",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1022077560"
+  },
+  {
+    "id": "1036851737",
+    "name": "激勵",
+    "link": "https://mhrise.kiranico.com/zh-Hant/data/skills/1036851737"
+  }
+]

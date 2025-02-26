@@ -1,0 +1,902 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/939493997.png",
+    "id": "939493997",
+    "name": "素朴な端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/939493997"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/819001858.png",
+    "id": "819001858",
+    "name": "素朴な上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/819001858"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1024944551.png",
+    "id": "1024944551",
+    "name": "鉱石の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1024944551"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1072224580.png",
+    "id": "1072224580",
+    "name": "鉱石の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1072224580"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/952240485.png",
+    "id": "952240485",
+    "name": "虫の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/952240485"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/966490394.png",
+    "id": "966490394",
+    "name": "虫の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/966490394"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/607078649.png",
+    "id": "607078649",
+    "name": "毛皮の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/607078649"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/620804254.png",
+    "id": "620804254",
+    "name": "毛皮の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/620804254"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/981248315.png",
+    "id": "981248315",
+    "name": "骨の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/981248315"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/995498200.png",
+    "id": "995498200",
+    "name": "骨の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/995498200"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/668592319.png",
+    "id": "668592319",
+    "name": "垂皮竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/668592319"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/548624476.png",
+    "id": "548624476",
+    "name": "垂皮竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/548624476"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/787599345.png",
+    "id": "787599345",
+    "name": "草食竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/787599345"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/801849238.png",
+    "id": "801849238",
+    "name": "草食竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/801849238"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/591865907.png",
+    "id": "591865907",
+    "name": "飛甲虫の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/591865907"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/739811280.png",
+    "id": "739811280",
+    "name": "飛甲虫の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/739811280"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/563382397.png",
+    "id": "563382397",
+    "name": "狗竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/563382397"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/577632274.png",
+    "id": "577632274",
+    "name": "狗竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/577632274"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/682389431.png",
+    "id": "682389431",
+    "name": "鎌鼬竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/682389431"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/696639316.png",
+    "id": "696639316",
+    "name": "鎌鼬竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/696639316"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/402197302.png",
+    "id": "402197302",
+    "name": "眠狗竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/402197302"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/282229463.png",
+    "id": "282229463",
+    "name": "眠狗竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/282229463"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1472483017.png",
+    "id": "1472483017",
+    "name": "掻鳥の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1472483017"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1352515310.png",
+    "id": "1352515310",
+    "name": "掻鳥の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1352515310"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/487647816.png",
+    "id": "487647816",
+    "name": "毒狗竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/487647816"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/535452265.png",
+    "id": "535452265",
+    "name": "毒狗竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/535452265"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/340683632.png",
+    "id": "340683632",
+    "name": "青熊獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/340683632"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/354933521.png",
+    "id": "354933521",
+    "name": "青熊獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/354933521"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/296463092.png",
+    "id": "296463092",
+    "name": "白兎獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/296463092"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/311237269.png",
+    "id": "311237269",
+    "name": "白兎獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/311237269"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/69781890.png",
+    "id": "69781890",
+    "name": "赤甲獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/69781890"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/84031907.png",
+    "id": "84031907",
+    "name": "赤甲獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/84031907"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1366748815.png",
+    "id": "1366748815",
+    "name": "傘鳥の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1366748815"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1380474540.png",
+    "id": "1380474540",
+    "name": "傘鳥の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1380474540"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/415468046.png",
+    "id": "415468046",
+    "name": "水獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/415468046"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/430242351.png",
+    "id": "430242351",
+    "name": "水獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/430242351"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/325470858.png",
+    "id": "325470858",
+    "name": "土砂竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/325470858"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/473938603.png",
+    "id": "473938603",
+    "name": "土砂竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/473938603"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1409920779.png",
+    "id": "1409920779",
+    "name": "ブヨブヨした端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1409920779"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1457725224.png",
+    "id": "1457725224",
+    "name": "真珠色の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1457725224"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/710872949.png",
+    "id": "710872949",
+    "name": "河童蛙の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/710872949"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/724598634.png",
+    "id": "724598634",
+    "name": "河童蛙の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/724598634"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1513713031.png",
+    "id": "1513713031",
+    "name": "天狗獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1513713031"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1527963044.png",
+    "id": "1527963044",
+    "name": "天狗獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1527963044"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1591488003.png",
+    "id": "1591488003",
+    "name": "毒妖鳥の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1591488003"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1605738016.png",
+    "id": "1605738016",
+    "name": "毒妖鳥の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1605738016"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1976984471.png",
+    "id": "1976984471",
+    "name": "泥魚竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1976984471"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/131819840.png",
+    "id": "131819840",
+    "name": "岩竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/131819840"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/12376417.png",
+    "id": "12376417",
+    "name": "岩竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/12376417"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1394708045.png",
+    "id": "1394708045",
+    "name": "人魚竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1394708045"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1576730210.png",
+    "id": "1576730210",
+    "name": "人魚竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1576730210"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1832293438.png",
+    "id": "1832293438",
+    "name": "雌火竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1832293438"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1846541279.png",
+    "id": "1846541279",
+    "name": "雌火竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1846541279"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/444475852.png",
+    "id": "444475852",
+    "name": "氷牙竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/444475852"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/458725869.png",
+    "id": "458725869",
+    "name": "氷牙竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/458725869"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1485753793.png",
+    "id": "1485753793",
+    "name": "飛雷竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1485753793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1499479526.png",
+    "id": "1499479526",
+    "name": "飛雷竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1499479526"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1095847129.png",
+    "id": "1095847129",
+    "name": "怨虎竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1095847129"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1110097150.png",
+    "id": "1110097150",
+    "name": "怨虎竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1110097150"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1173622085.png",
+    "id": "1173622085",
+    "name": "蛮顎竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1173622085"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1187872122.png",
+    "id": "1187872122",
+    "name": "蛮顎竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1187872122"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/26609926.png",
+    "id": "26609926",
+    "name": "迅竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/26609926"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/40859943.png",
+    "id": "40859943",
+    "name": "迅竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/40859943"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1202105627.png",
+    "id": "1202105627",
+    "name": "泡狐竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1202105627"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1081613624.png",
+    "id": "1081613624",
+    "name": "泡狐竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1081613624"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1124330655.png",
+    "id": "1124330655",
+    "name": "雪鬼獣の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1124330655"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1306877116.png",
+    "id": "1306877116",
+    "name": "雪鬼獣の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1306877116"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1759587324.png",
+    "id": "1759587324",
+    "name": "火竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1759587324"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1773837213.png",
+    "id": "1773837213",
+    "name": "火竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1773837213"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1243333585.png",
+    "id": "1243333585",
+    "name": "泥翁竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1243333585"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1962750966.png",
+    "id": "1962750966",
+    "name": "泥翁竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1962750966"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1788070834.png",
+    "id": "1788070834",
+    "name": "雷狼竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1788070834"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1802845011.png",
+    "id": "1802845011",
+    "name": "雷狼竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1802845011"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1214852115.png",
+    "id": "1214852115",
+    "name": "轟竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1214852115"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1229102128.png",
+    "id": "1229102128",
+    "name": "轟竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1229102128"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1321110621.png",
+    "id": "1321110621",
+    "name": "角竜の端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1321110621"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1335360626.png",
+    "id": "1335360626",
+    "name": "角竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1335360626"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1884975946.png",
+    "id": "1884975946",
+    "name": "妃蜘蛛の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1884975946"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2110239438.png",
+    "id": "2110239438",
+    "name": "鋼龍の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2110239438"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2095989545.png",
+    "id": "2095989545",
+    "name": "霞龍の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2095989545"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2123948783.png",
+    "id": "2123948783",
+    "name": "炎王龍の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2123948783"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2004943701.png",
+    "id": "2004943701",
+    "name": "金獅子の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2004943701"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1913983752.png",
+    "id": "1913983752",
+    "name": "爆鱗竜の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1913983752"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1991234484.png",
+    "id": "1991234484",
+    "name": "風神龍の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1991234484"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1899209579.png",
+    "id": "1899209579",
+    "name": "雷神龍の上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1899209579"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2138198668.png",
+    "id": "2138198668",
+    "name": "天彗龍の赫上端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2138198668"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/783170426.png",
+    "id": "783170426",
+    "name": "雌火竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/783170426"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/676911928.png",
+    "id": "676911928",
+    "name": "火竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/676911928"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/705395454.png",
+    "id": "705395454",
+    "name": "真珠色の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/705395454"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1424796319.png",
+    "id": "1424796319",
+    "name": "岩竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1424796319"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1439046332.png",
+    "id": "1439046332",
+    "name": "角竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1439046332"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1453279837.png",
+    "id": "1453279837",
+    "name": "盾蟹の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1453279837"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1467005554.png",
+    "id": "1467005554",
+    "name": "鎌蟹の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1467005554"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1347021331.png",
+    "id": "1347021331",
+    "name": "金獅子の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1347021331"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1361271344.png",
+    "id": "1361271344",
+    "name": "鋼龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1361271344"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1376029137.png",
+    "id": "1376029137",
+    "name": "霞龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1376029137"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1558051318.png",
+    "id": "1558051318",
+    "name": "炎王龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1558051318"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1572284823.png",
+    "id": "1572284823",
+    "name": "轟竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1572284823"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1586010548.png",
+    "id": "1586010548",
+    "name": "迅竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1586010548"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1600244053.png",
+    "id": "1600244053",
+    "name": "氷牙竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1600244053"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1480276298.png",
+    "id": "1480276298",
+    "name": "土砂竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1480276298"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1495034219.png",
+    "id": "1495034219",
+    "name": "水獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1495034219"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1542838536.png",
+    "id": "1542838536",
+    "name": "眠狗竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1542838536"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1154418985.png",
+    "id": "1154418985",
+    "name": "雷狼竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1154418985"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1168144590.png",
+    "id": "1168144590",
+    "name": "毒狗竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1168144590"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1182378223.png",
+    "id": "1182378223",
+    "name": "青熊獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1182378223"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1196628108.png",
+    "id": "1196628108",
+    "name": "白兎獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1196628108"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1077168301.png",
+    "id": "1077168301",
+    "name": "赤甲獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1077168301"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1091418178.png",
+    "id": "1091418178",
+    "name": "天廻龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1091418178"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1139206243.png",
+    "id": "1139206243",
+    "name": "黒蝕竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1139206243"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1287149568.png",
+    "id": "1287149568",
+    "name": "千刃竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1287149568"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1301383201.png",
+    "id": "1301383201",
+    "name": "電竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1301383201"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1315635142.png",
+    "id": "1315635142",
+    "name": "泡狐竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1315635142"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1330393063.png",
+    "id": "1330393063",
+    "name": "天彗龍の赫重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1330393063"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1210425220.png",
+    "id": "1210425220",
+    "name": "怨虎竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1210425220"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1258213285.png",
+    "id": "1258213285",
+    "name": "天狗獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1258213285"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1271938906.png",
+    "id": "1271938906",
+    "name": "傘鳥の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1271938906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1957261179.png",
+    "id": "1957261179",
+    "name": "河童蛙の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1957261179"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1971511064.png",
+    "id": "1971511064",
+    "name": "人魚竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1971511064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1986268985.png",
+    "id": "1986268985",
+    "name": "妃蜘蛛の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1986268985"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2000518878.png",
+    "id": "2000518878",
+    "name": "泥翁竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2000518878"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1880534783.png",
+    "id": "1880534783",
+    "name": "風神龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1880534783"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1927814812.png",
+    "id": "1927814812",
+    "name": "雪鬼獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1927814812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1942048445.png",
+    "id": "1942048445",
+    "name": "鎌鼬竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1942048445"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2090516050.png",
+    "id": "2090516050",
+    "name": "雷神龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2090516050"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2104749683.png",
+    "id": "2104749683",
+    "name": "蛮顎竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2104749683"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2119523856.png",
+    "id": "2119523856",
+    "name": "毒妖鳥の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2119523856"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2133757489.png",
+    "id": "2133757489",
+    "name": "掻鳥の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2133757489"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2013789654.png",
+    "id": "2013789654",
+    "name": "泥魚竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2013789654"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2061053431.png",
+    "id": "2061053431",
+    "name": "飛雷竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2061053431"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2075303316.png",
+    "id": "2075303316",
+    "name": "爆鱗竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/2075303316"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1686883765.png",
+    "id": "1686883765",
+    "name": "爵銀龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1686883765"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1701658026.png",
+    "id": "1701658026",
+    "name": "氷狼竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1701658026"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1715891531.png",
+    "id": "1715891531",
+    "name": "剛纏獣の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1715891531"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1730141544.png",
+    "id": "1730141544",
+    "name": "冥淵龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1730141544"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1643187465.png",
+    "id": "1643187465",
+    "name": "棘竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1643187465"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1657437486.png",
+    "id": "1657437486",
+    "name": "素朴な重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1657437486"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1671670991.png",
+    "id": "1671670991",
+    "name": "鉱石の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1671670991"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1820663020.png",
+    "id": "1820663020",
+    "name": "虫の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1820663020"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1834896525.png",
+    "id": "1834896525",
+    "name": "毛皮の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1834896525"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1849146530.png",
+    "id": "1849146530",
+    "name": "骨の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1849146530"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1790675969.png",
+    "id": "1790675969",
+    "name": "草食竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1790675969"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1805450278.png",
+    "id": "1805450278",
+    "name": "飛甲虫の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1805450278"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/371245957.png",
+    "id": "371245957",
+    "name": "狗竜の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/371245957"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1982087450.png",
+    "id": "1982087450",
+    "name": "紅蓮滾る重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1982087450"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1895674171.png",
+    "id": "1895674171",
+    "name": "怨嗟響めく重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1895674171"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1167752634.png",
+    "id": "1167752634",
+    "name": "渾沌の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1167752634"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1985872789.png",
+    "id": "1985872789",
+    "name": "冰龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1985872789"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1687011937.png",
+    "id": "1687011937",
+    "name": "嵐龍の重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1687011937"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1848226078.png",
+    "id": "1848226078",
+    "name": "原初を刻む重端材",
+    "link": "https://mhrise.kiranico.com/ja/data/items/1848226078"
+  }
+]
