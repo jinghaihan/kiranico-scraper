@@ -1,0 +1,470 @@
+[
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_05.png",
+    "id": "em132_05",
+    "name": "원초를 새기는 멜-제나",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1301934382"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em134_00.png",
+    "id": "em134_00",
+    "name": "가란고르무",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/247196652"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em135_00.png",
+    "id": "em135_00",
+    "name": "가이아델름",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/261970829"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_05.png",
+    "id": "em023_05",
+    "name": "격앙 라잔",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1326634525"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em097_00.png",
+    "id": "em097_00",
+    "name": "고샤하기",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2069053547"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_00.png",
+    "id": "em071_00",
+    "name": "고어-마가라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1161896781"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_08.png",
+    "id": "em086_08",
+    "name": "괴이 극복 발파루크",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/210106812"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_08.png",
+    "id": "em072_08",
+    "name": "괴이 극복 샤가르마가라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/479959906"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_08.png",
+    "id": "em025_08",
+    "name": "괴이 극복 오나즈치",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1186844883"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_08.png",
+    "id": "em024_08",
+    "name": "괴이 극복 크샬다오라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1172594994"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_08.png",
+    "id": "em027_08",
+    "name": "괴이 극복 테오-테스카토르",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1080586385"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_00.png",
+    "id": "em099_00",
+    "name": "나루하타타히메",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1695408169"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_00.png",
+    "id": "em037_00",
+    "name": "나르가쿠르가",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1047302063"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em037_02.png",
+    "id": "em037_02",
+    "name": "나르가쿠르가 희소종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1661782447"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em019_00.png",
+    "id": "em019_00",
+    "name": "다이묘자자미",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/19196313"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em054_00.png",
+    "id": "em054_00",
+    "name": "도스바기",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/718470492"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em059_00.png",
+    "id": "em059_00",
+    "name": "도스프로기",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1460759793"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_00.png",
+    "id": "em007_00",
+    "name": "디아블로스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/485829389"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em081_00.png",
+    "id": "em081_00",
+    "name": "라이젝스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1237729819"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em023_00.png",
+    "id": "em023_00",
+    "name": "라잔",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/243411229"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em062_00.png",
+    "id": "em062_00",
+    "name": "랑그로토라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1403354196"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em047_00.png",
+    "id": "em047_00",
+    "name": "로아루드로스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/585215589"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em133_00.png",
+    "id": "em133_00",
+    "name": "루나가론",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/232963023"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_00.png",
+    "id": "em002_00",
+    "name": "리오레우스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/381074408"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_02.png",
+    "id": "em002_02",
+    "name": "리오레우스 희소종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1532413416"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_00.png",
+    "id": "em001_00",
+    "name": "리오레이아",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/366824395"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_02.png",
+    "id": "em001_02",
+    "name": "리오레이아 희소종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1518179787"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_00.png",
+    "id": "em089_00",
+    "name": "마가이마가도",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1921564947"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em132_00.png",
+    "id": "em132_00",
+    "name": "멜-제나",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/50943022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em004_00.png",
+    "id": "em004_00",
+    "name": "바살모스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/274815918"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_00.png",
+    "id": "em118_00",
+    "name": "바젤기우스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/321844636"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em099_05.png",
+    "id": "em099_05",
+    "name": "백룡 연원 나루하타타히메",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/664702249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em042_00.png",
+    "id": "em042_00",
+    "name": "벨리오로스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/614678208"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em044_00.png",
+    "id": "em044_00",
+    "name": "볼보로스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/643686022"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_00.png",
+    "id": "em090_00",
+    "name": "비슈텐고",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1935814960"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em090_01.png",
+    "id": "em090_01",
+    "name": "비슈텐고 아종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/447894064"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em072_00.png",
+    "id": "em072_00",
+    "name": "샤가르마가라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1176146786"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em077_00.png",
+    "id": "em077_00",
+    "name": "셀레기오스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1280901767"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em020_00.png",
+    "id": "em020_00",
+    "name": "쇼군기자미",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/67000766"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em058_00.png",
+    "id": "em058_00",
+    "name": "아마츠마가츠치",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1446526160"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_00.png",
+    "id": "em060_00",
+    "name": "아오아시라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1374346390"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em091_00.png",
+    "id": "em091_00",
+    "name": "아케노시름",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2084266193"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em100_00.png",
+    "id": "em100_00",
+    "name": "안쟈나프",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1743214542"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_00.png",
+    "id": "em094_00",
+    "name": "야츠카다키",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2026860724"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em094_01.png",
+    "id": "em094_01",
+    "name": "야츠카다키 아종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/102732212"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_00.png",
+    "id": "em136_00",
+    "name": "에스피나스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/141986722"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em136_01.png",
+    "id": "em136_01",
+    "name": "에스피나스 아종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1472640162"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em086_05.png",
+    "id": "em086_05",
+    "name": "영묘한 광채의 발파루크",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/815111868"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em025_00.png",
+    "id": "em025_00",
+    "name": "오나즈치",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/138201299"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_00.png",
+    "id": "em095_00",
+    "name": "오로미도로",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2040569941"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em095_01.png",
+    "id": "em095_01",
+    "name": "오로미도로 아종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/15778133"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em098_00.png",
+    "id": "em098_00",
+    "name": "오사이즈치",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1681174536"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em092_00.png",
+    "id": "em092_00",
+    "name": "요츠미와두",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2099040502"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em061_00.png",
+    "id": "em061_00",
+    "name": "울크스스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1389104311"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em089_05.png",
+    "id": "em089_05",
+    "name": "원망 서린 마가이마가도",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/857304595"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em124_00.png",
+    "id": "em124_00",
+    "name": "이베르카나",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/440849622"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em096_00.png",
+    "id": "em096_00",
+    "name": "이부시마키히코",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2054819914"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_00.png",
+    "id": "em093_00",
+    "name": "이소네미쿠니",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2146828439"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em093_01.png",
+    "id": "em093_01",
+    "name": "이소네미쿠니 아종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/88482199"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em007_07.png",
+    "id": "em007_07",
+    "name": "주인 디아블로스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/36049421"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em002_07.png",
+    "id": "em002_07",
+    "name": "주인 리오레우스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/99050216"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em001_07.png",
+    "id": "em001_07",
+    "name": "주인 리오레이아",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/453915339"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em060_07.png",
+    "id": "em060_07",
+    "name": "주인 아오아시라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1192999830"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_07.png",
+    "id": "em057_07",
+    "name": "주인 진오우거",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1150792755"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_07.png",
+    "id": "em082_07",
+    "name": "주인 타마미츠네",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/2043189560"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em108_00.png",
+    "id": "em108_00",
+    "name": "쥬라토도스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1755961030"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em057_00.png",
+    "id": "em057_00",
+    "name": "진오우거",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1432800563"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em107_00.png",
+    "id": "em107_00",
+    "name": "쿠루루야크",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1875928865"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em024_00.png",
+    "id": "em024_00",
+    "name": "크샬다오라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/257661234"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_00.png",
+    "id": "em082_00",
+    "name": "타마미츠네",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1251979832"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em082_02.png",
+    "id": "em082_02",
+    "name": "타마미츠네 희소종",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1061157944"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em027_00.png",
+    "id": "em027_00",
+    "name": "테오-테스카토르",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/200239249"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em109_00.png",
+    "id": "em109_00",
+    "name": "토비카가치",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1770194663"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em032_00.png",
+    "id": "em032_00",
+    "name": "티가렉스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/808327178"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em003_00.png",
+    "id": "em003_00",
+    "name": "푸루푸루",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/395307913"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em102_00.png",
+    "id": "em102_00",
+    "name": "푸케푸케",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1636956044"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em071_05.png",
+    "id": "em071_05",
+    "name": "혼돈에 신음하는 고어-마가라",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/131188813"
+  },
+  {
+    "img": "http://cdn.kiranico.net/file/kiranico/mhrise-web/images/icons/em118_05.png",
+    "id": "em118_05",
+    "name": "홍련의 솟구치는 바젤기우스",
+    "link": "https://mhrise.kiranico.com/ko/data/monsters/1572835996"
+  }
+]

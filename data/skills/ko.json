@@ -1,0 +1,737 @@
+[
+  {
+    "id": "366824395",
+    "name": "공격",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/366824395"
+  },
+  {
+    "id": "381074408",
+    "name": "도전자",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/381074408"
+  },
+  {
+    "id": "395307913",
+    "name": "완전 충전",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/395307913"
+  },
+  {
+    "id": "274815918",
+    "name": "앙심",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/274815918"
+  },
+  {
+    "id": "289049423",
+    "name": "돌파구",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/289049423"
+  },
+  {
+    "id": "303299436",
+    "name": "간파",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/303299436"
+  },
+  {
+    "id": "485829389",
+    "name": "슈퍼회심",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/485829389"
+  },
+  {
+    "id": "500079394",
+    "name": "약점 특효",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/500079394"
+  },
+  {
+    "id": "514312899",
+    "name": "힘의 해방",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/514312899"
+  },
+  {
+    "id": "528038624",
+    "name": "혼신",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/528038624"
+  },
+  {
+    "id": "408054401",
+    "name": "회심격【속성】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/408054401"
+  },
+  {
+    "id": "422304422",
+    "name": "달인의 재주",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/422304422"
+  },
+  {
+    "id": "437062215",
+    "name": "불속성 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/437062215"
+  },
+  {
+    "id": "82213476",
+    "name": "물속성 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/82213476"
+  },
+  {
+    "id": "96446981",
+    "name": "얼음속성 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/96446981"
+  },
+  {
+    "id": "110172730",
+    "name": "번개속성 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/110172730"
+  },
+  {
+    "id": "124406235",
+    "name": "용속성 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/124406235"
+  },
+  {
+    "id": "4438520",
+    "name": "독속성 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/4438520"
+  },
+  {
+    "id": "19196313",
+    "name": "마비속성 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/19196313"
+  },
+  {
+    "id": "67000766",
+    "name": "수면속성 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/67000766"
+  },
+  {
+    "id": "215451999",
+    "name": "폭파속성 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/215451999"
+  },
+  {
+    "id": "229177724",
+    "name": "장인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/229177724"
+  },
+  {
+    "id": "243411229",
+    "name": "명검",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/243411229"
+  },
+  {
+    "id": "257661234",
+    "name": "탄환 절약",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/257661234"
+  },
+  {
+    "id": "138201299",
+    "name": "칼날 연마",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/138201299"
+  },
+  {
+    "id": "152451312",
+    "name": "심안",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/152451312"
+  },
+  {
+    "id": "200239249",
+    "name": "탄도 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/200239249"
+  },
+  {
+    "id": "885053622",
+    "name": "둔기 사용",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/885053622"
+  },
+  {
+    "id": "899287127",
+    "name": "활 모으기 단계 해제",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/899287127"
+  },
+  {
+    "id": "913537140",
+    "name": "집중",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/913537140"
+  },
+  {
+    "id": "928294933",
+    "name": "강화 지속",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/928294933"
+  },
+  {
+    "id": "808327178",
+    "name": "런너",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/808327178"
+  },
+  {
+    "id": "822560811",
+    "name": "체술",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/822560811"
+  },
+  {
+    "id": "869842888",
+    "name": "스태미나 급속 회복",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/869842888"
+  },
+  {
+    "id": "1018294249",
+    "name": "가드 성능",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1018294249"
+  },
+  {
+    "id": "1032544142",
+    "name": "가드 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1032544142"
+  },
+  {
+    "id": "1047302063",
+    "name": "공격적인 방어",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1047302063"
+  },
+  {
+    "id": "1061551948",
+    "name": "발도술【기】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1061551948"
+  },
+  {
+    "id": "941567853",
+    "name": "발도술【힘】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/941567853"
+  },
+  {
+    "id": "988847874",
+    "name": "납도술",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/988847874"
+  },
+  {
+    "id": "1003081507",
+    "name": "KO술",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1003081507"
+  },
+  {
+    "id": "614678208",
+    "name": "스태미나 탈취",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/614678208"
+  },
+  {
+    "id": "629436129",
+    "name": "활주 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/629436129"
+  },
+  {
+    "id": "643686022",
+    "name": "피리 명인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/643686022"
+  },
+  {
+    "id": "657919655",
+    "name": "포술",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/657919655"
+  },
+  {
+    "id": "537427524",
+    "name": "포탄 장전",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/537427524"
+  },
+  {
+    "id": "585215589",
+    "name": "특수 사격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/585215589"
+  },
+  {
+    "id": "599465498",
+    "name": "통상탄/연사화살 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/599465498"
+  },
+  {
+    "id": "748441147",
+    "name": "관통탄/관통화살 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/748441147"
+  },
+  {
+    "id": "762691032",
+    "name": "산탄/확산화살 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/762691032"
+  },
+  {
+    "id": "776924665",
+    "name": "장전 확장",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/776924665"
+  },
+  {
+    "id": "790650270",
+    "name": "장전 속도",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/790650270"
+  },
+  {
+    "id": "704220607",
+    "name": "반동 경감",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/704220607"
+  },
+  {
+    "id": "718470492",
+    "name": "흔들림 억제",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/718470492"
+  },
+  {
+    "id": "733228413",
+    "name": "속사 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/733228413"
+  },
+  {
+    "id": "1418566930",
+    "name": "방어",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1418566930"
+  },
+  {
+    "id": "1432800563",
+    "name": "정령의 가호",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1432800563"
+  },
+  {
+    "id": "1446526160",
+    "name": "체력 회복량 UP",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1446526160"
+  },
+  {
+    "id": "1460759793",
+    "name": "회복 속도",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1460759793"
+  },
+  {
+    "id": "1374346390",
+    "name": "빨리 먹기",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1374346390"
+  },
+  {
+    "id": "1389104311",
+    "name": "귀마개",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1389104311"
+  },
+  {
+    "id": "1403354196",
+    "name": "풍압 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1403354196"
+  },
+  {
+    "id": "1551805557",
+    "name": "내진",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1551805557"
+  },
+  {
+    "id": "1565531242",
+    "name": "거품의 춤",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1565531242"
+  },
+  {
+    "id": "1579764747",
+    "name": "회피 성능",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1579764747"
+  },
+  {
+    "id": "1594014760",
+    "name": "회피 거리 UP",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1594014760"
+  },
+  {
+    "id": "1507582921",
+    "name": "불 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1507582921"
+  },
+  {
+    "id": "1522357230",
+    "name": "물 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1522357230"
+  },
+  {
+    "id": "1536590735",
+    "name": "얼음 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1536590735"
+  },
+  {
+    "id": "1148187564",
+    "name": "번개 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1148187564"
+  },
+  {
+    "id": "1161896781",
+    "name": "용 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1161896781"
+  },
+  {
+    "id": "1176146786",
+    "name": "속성 피해 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1176146786"
+  },
+  {
+    "id": "1089716995",
+    "name": "독 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1089716995"
+  },
+  {
+    "id": "1104491296",
+    "name": "마비 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1104491296"
+  },
+  {
+    "id": "1118724801",
+    "name": "수면 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1118724801"
+  },
+  {
+    "id": "1132974822",
+    "name": "기절 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1132974822"
+  },
+  {
+    "id": "1280901767",
+    "name": "진흙/눈 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1280901767"
+  },
+  {
+    "id": "1295151780",
+    "name": "폭파 피해 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1295151780"
+  },
+  {
+    "id": "1309385285",
+    "name": "식생학",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1309385285"
+  },
+  {
+    "id": "1223496314",
+    "name": "지질학",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1223496314"
+  },
+  {
+    "id": "1237729819",
+    "name": "파괴왕",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1237729819"
+  },
+  {
+    "id": "1251979832",
+    "name": "포획 명인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1251979832"
+  },
+  {
+    "id": "1265689049",
+    "name": "갈무리 명인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1265689049"
+  },
+  {
+    "id": "1951027710",
+    "name": "행운",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1951027710"
+  },
+  {
+    "id": "1965261215",
+    "name": "숫돌 사용 고속화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1965261215"
+  },
+  {
+    "id": "1980035516",
+    "name": "보머",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1980035516"
+  },
+  {
+    "id": "1893605725",
+    "name": "버섯 애호가",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1893605725"
+  },
+  {
+    "id": "1907855730",
+    "name": "아이템 사용 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1907855730"
+  },
+  {
+    "id": "1921564947",
+    "name": "광역화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1921564947"
+  },
+  {
+    "id": "1935814960",
+    "name": "만족감",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1935814960"
+  },
+  {
+    "id": "2084266193",
+    "name": "재난대처능력",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2084266193"
+  },
+  {
+    "id": "2099040502",
+    "name": "불굴",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2099040502"
+  },
+  {
+    "id": "2146828439",
+    "name": "움찔 감소",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2146828439"
+  },
+  {
+    "id": "2026860724",
+    "name": "점프 철인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2026860724"
+  },
+  {
+    "id": "2040569941",
+    "name": "갈무리 철인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2040569941"
+  },
+  {
+    "id": "2054819914",
+    "name": "배고픔 내성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2054819914"
+  },
+  {
+    "id": "2069053547",
+    "name": "뛰어들기",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/2069053547"
+  },
+  {
+    "id": "1681174536",
+    "name": "양동",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1681174536"
+  },
+  {
+    "id": "1695408169",
+    "name": "탑승 명인",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1695408169"
+  },
+  {
+    "id": "1743214542",
+    "name": "하피의 은혜",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1743214542"
+  },
+  {
+    "id": "1622706159",
+    "name": "강각의 은혜",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1622706159"
+  },
+  {
+    "id": "1636956044",
+    "name": "염린의 은혜",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1636956044"
+  },
+  {
+    "id": "1651189677",
+    "name": "용기 활성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1651189677"
+  },
+  {
+    "id": "1665963842",
+    "name": "밧줄벌레꾼",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1665963842"
+  },
+  {
+    "id": "1814415203",
+    "name": "벽면 이동",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1814415203"
+  },
+  {
+    "id": "1862219520",
+    "name": "역습",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1862219520"
+  },
+  {
+    "id": "1875928865",
+    "name": "고속 변형",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1875928865"
+  },
+  {
+    "id": "1755961030",
+    "name": "귀화전",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1755961030"
+  },
+  {
+    "id": "1770194663",
+    "name": "풍문의 일치",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1770194663"
+  },
+  {
+    "id": "1784968836",
+    "name": "뇌문의 일치",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1784968836"
+  },
+  {
+    "id": "1799202469",
+    "name": "풍뢰합일",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1799202469"
+  },
+  {
+    "id": "337057370",
+    "name": "혈기",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/337057370"
+  },
+  {
+    "id": "384321147",
+    "name": "복마향명",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/384321147"
+  },
+  {
+    "id": "398571032",
+    "name": "격앙",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/398571032"
+  },
+  {
+    "id": "278586937",
+    "name": "업개【수라】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/278586937"
+  },
+  {
+    "id": "293361118",
+    "name": "전화위복",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/293361118"
+  },
+  {
+    "id": "307594751",
+    "name": "광룡증【식】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/307594751"
+  },
+  {
+    "id": "321844636",
+    "name": "현여반석",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/321844636"
+  },
+  {
+    "id": "469771709",
+    "name": "기습",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/469771709"
+  },
+  {
+    "id": "517576018",
+    "name": "교격",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/517576018"
+  },
+  {
+    "id": "412366096",
+    "name": "합기",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/412366096"
+  },
+  {
+    "id": "426599729",
+    "name": "향응",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/426599729"
+  },
+  {
+    "id": "440849622",
+    "name": "차지 마스터",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/440849622"
+  },
+  {
+    "id": "454558967",
+    "name": "공세",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/454558967"
+  },
+  {
+    "id": "99710100",
+    "name": "튠 업",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/99710100"
+  },
+  {
+    "id": "113943733",
+    "name": "연마술【예】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/113943733"
+  },
+  {
+    "id": "128717994",
+    "name": "칼날비늘 연마",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/128717994"
+  },
+  {
+    "id": "8733771",
+    "name": "벽면 이동【상】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/8733771"
+  },
+  {
+    "id": "232963023",
+    "name": "신속의 숨결",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/232963023"
+  },
+  {
+    "id": "22983784",
+    "name": "약점 특효【속성】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/22983784"
+  },
+  {
+    "id": "37217289",
+    "name": "연격",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/37217289"
+  },
+  {
+    "id": "50943022",
+    "name": "근성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/50943022"
+  },
+  {
+    "id": "247196652",
+    "name": "상태 이상 확정 축적",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/247196652"
+  },
+  {
+    "id": "261970829",
+    "name": "강심",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/261970829"
+  },
+  {
+    "id": "141986722",
+    "name": "축적 시 공격 강화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/141986722"
+  },
+  {
+    "id": "531809651",
+    "name": "선위",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/531809651"
+  },
+  {
+    "id": "169945952",
+    "name": "풍전",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/169945952"
+  },
+  {
+    "id": "888838913",
+    "name": "분진전",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/888838913"
+  },
+  {
+    "id": "156236611",
+    "name": "광화",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/156236611"
+  },
+  {
+    "id": "840071771",
+    "name": "분투",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/840071771"
+  },
+  {
+    "id": "903072550",
+    "name": "냉기 연성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/903072550"
+  },
+  {
+    "id": "917846727",
+    "name": "용기 변환",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/917846727"
+  },
+  {
+    "id": "932080356",
+    "name": "천의무붕",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/932080356"
+  },
+  {
+    "id": "812112517",
+    "name": "광룡증【상】",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/812112517"
+  },
+  {
+    "id": "825821882",
+    "name": "혈기각성",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/825821882"
+  },
+  {
+    "id": "1022077560",
+    "name": "완충",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1022077560"
+  },
+  {
+    "id": "1036851737",
+    "name": "격려",
+    "link": "https://mhrise.kiranico.com/ko/data/skills/1036851737"
+  }
+]
